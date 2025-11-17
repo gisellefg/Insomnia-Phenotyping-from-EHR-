@@ -102,3 +102,42 @@ SELECT 'impair_evd', COUNT(DISTINCT subject_id) FROM kb.evd_dx_impair
 UNION ALL
 SELECT 'ruleA_patients', COUNT(*) FROM kb.ruleA;
 
+
+
+-- Here we refind the sleep_difficulty_codes
+-- Insert all SNOMED insomnia concepts (Rule A diagnosis expansion)
+INSERT INTO mimic_omop.sleep_difficulty_codes (concept_id)
+SELECT x.concept_id
+FROM (VALUES
+    (42538607),(43021812),(43021860),(43020464),(43020467),
+    (37110488),(37166347),(44784625),(1340379),(444300),
+    (4243368),(436962),(37016173),(37117120),(439013),
+    (436681),(763092),(37397765),(434172),(4012514),
+    (4282607),(4182361),(4102985),(440082),(4215402),
+    (4138617),(4228217),(37161157),(434918)
+) AS x(concept_id)
+LEFT JOIN mimic_omop.sleep_difficulty_codes s
+       ON x.concept_id = s.concept_id
+WHERE s.concept_id IS NULL;
+
+
+
+
+-- Refine daytime_impairment_codes--
+-- Make sure the table exists
+CREATE TABLE IF NOT EXISTS mimic_omop.daytime_impairment_codes (
+    concept_id INTEGER PRIMARY KEY
+);
+
+-- Insert only if not already present
+INSERT INTO mimic_omop.daytime_impairment_codes (concept_id)
+SELECT x.concept_id
+FROM (VALUES
+    (43530733),(4108537),(4043562),(4044238),(4043563),(4044239),
+    (438134),(37016174),(434891),(436669),(4143701),(4047912),
+    (439150),(43531627),(40483183),(40482713),(434904),
+    (4262584),(443528),(4158978),(4302044),(437260)
+) AS x(concept_id)
+LEFT JOIN mimic_omop.daytime_impairment_codes d
+       ON d.concept_id = x.concept_id
+WHERE d.concept_id IS NULL;
