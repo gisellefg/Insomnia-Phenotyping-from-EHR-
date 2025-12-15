@@ -1,1 +1,3 @@
-One can find the main scripts in the "main" folder, this includes the final pipeline as well as the the final evaluation script. Files for detailed evaluation results can be found in the "evalaution" folder. The "scripts" folder includes all sql queries used for this project. 
+The `main` folder contains the full pipeline and final evaluation script.  
+Detailed evaluation outputs are stored in the `evaluation` folder.  
+All SQL queries are located in the `scripts` folder.
