@@ -1,9 +1,0 @@
-concept_code,concept_name,vocabulary
-F51.01,Primary insomnia,ICD10CM
-F51.02,Adjustment insomnia,ICD10CM
-F51.03,Paradoxical insomnia,ICD10CM
-F51.04,Psychophysiologic insomnia,ICD10CM
-F51.09,Other insomnia,ICD10CM
-G47.00,Insomnia, unspecified,ICD10CM
-G47.01,Insomnia due to medical condition,ICD10CM
-G47.09,Other insomnia,ICD10CM
