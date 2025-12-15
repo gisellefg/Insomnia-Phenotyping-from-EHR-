@@ -1,0 +1,8 @@
+subject_id,rule_a_gold,rule_b_gold,rule_c_gold,any_gold,is_sleep,is_impair,is_primary,is_secondary,rule_a_text,rule_b_text,rule_c_text,any_text
+12747844,1,1,1,1,False,True,False,False,0,0,0,0
+13158370,1,0,0,1,True,False,False,False,0,0,0,0
+16174060,1,0,0,1,True,False,False,False,0,0,0,0
+17887687,1,1,1,1,True,False,False,False,0,0,0,0
+18275403,0,1,1,1,True,False,False,False,0,0,0,0
+18510965,0,1,1,1,False,False,False,False,0,0,0,0
+19345921,1,1,1,1,0,0,0,0,0,0,0,0

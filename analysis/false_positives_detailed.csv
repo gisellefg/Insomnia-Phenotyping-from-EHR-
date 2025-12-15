@@ -1,0 +1,118 @@
+subject_id,hadm_id,note_rowid,sent_id,text_span,asserts_sleep_difficulty,asserts_daytime_impairment,asserts_primary_med,asserts_secondary_med,negated,temporality,error,raw,sleep_raw,impair_raw,primary_raw,secondary_raw,is_sleep,is_impair,is_primary,is_secondary
+10683330,20081852,63,1,"Chief Complaint:
+fatigue
+ 
+Major Surgical or Invasive Procedure:
+Blood transfusion x1
+Esophogastroduodenoscopy
+Colonoscopy 
+
+ 
+History of Present Illness:
+Ms.",0,1,0,0,0,uncertain,nan,nan,False,True,False,False,0,1,0,0
+10683330,20081852,63,3,"without a significant PMH who presents 
+as
+a referral from her primary care physician ___ 3mo of fatigue,
+myalgias and dyspnea on exertion found to have anemia with a HgB
+of 6.0.",0,1,0,0,0,historical,nan,nan,False,True,False,False,0,1,0,0
+10683330,20081852,63,7,"She then represented to her primary care physician 
+for
+ongoing myalgias, shortness of breath as well as fatigue for the
+past 3 months and was subsequently sent to ___ for a HgB of
+6.0.",0,1,0,0,0,historical,nan,nan,False,True,False,False,0,1,0,0
+10683330,20081852,63,8,"Patient states she gets tired doing chores around the house
+which is unusual for her, and she also had to stop working
+(previously worked at a ___) due to these symptoms.",0,0,0,0,0,uncertain,no JSON,nan,False,False,False,False,0,0,0,0
+10683330,20081852,63,22,"GENERAL: sitting on side of bed, pale but comfortable
+HEENT: PERRLA, EOMI, pale conjunctiva, MMM but discoloration of
+the hard palate
+NECK: supple without lymphadenopathy, no thyroid nodules
+CARDIAC: Normal S1/S2 with RRR, no MRG
+LUNG: no respiratory distress, clear to auscultation 
+bilaterally,
+no crackles, wheezes, or rhonchi  
+ABD: +BS, soft, mild tenderness to palpation below epigastrum,
+nondistended, no hepatosplenomegaly
+EXT: Warm, well perfused, no lower extremity edema, 2+/symmetric
+distal pulses
+NEURO: Awake, alert, oriented, CN II-XII intact, ___ strength
+bilaterally, intact sensation to light touch bilaterally
+SKIN: No significant rashes evident 
+
+DISCHARGE PHYSICAL EXAM.",0,0,0,0,1,current,nan,nan,False,False,False,False,0,0,0,0
+10683330,20081852,63,23,"VS: T 98|BP 113/62|HR 76|RR 18|SpO2 97% RA
+GENERAL: standing in room NAD
+HEENT: PERRLA, EOMI, pale conjunctiva, MMM but discoloration of
+the hard palate
+NECK: supple without lymphadenopathy, no thyroid nodules
+CARDIAC: Normal S1/S2 with RRR, no MRG
+LUNG: no respiratory distress, clear to auscultation 
+bilaterally,
+no crackles, wheezes, or rhonchi  
+ABD: +BS, soft, non tender non distended, no hepatosplenomegally
+EXT: Warm, well perfused, no lower extremity edema, 2+/symmetric
+distal pulses
+NEURO: Awake, alert, oriented, CN II-XII intact, ___ strength
+bilaterally, intact sensation to light touch bilaterally
+SKIN: No significant rashes evident 
+
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 08:00PM BLOOD WBC-9.8 RBC-3.18* Hgb-6.0* Hct-22.0* 
+MCV-69* MCH-18.9* MCHC-27.3* RDW-20.8* RDWSD-50.8* Plt ___
+___ 08:00PM BLOOD Neuts-65.9 ___ Monos-6.4 Eos-1.5 
+Baso-0.8 Im ___ AbsNeut-6.44* AbsLymp-2.45 AbsMono-0.63 
+AbsEos-0.15 AbsBaso-0.08
+___ 11:33PM BLOOD ___ PTT-35.1 ___
+___ 08:00PM B",0,0,0,0,1,uncertain,nan,nan,False,False,False,False,0,0,0,0
+10683330,20081852,63,30,"Brief Hospital Course:
+PATIENT SUMMARY
+===============
+___ year old female with no significant PMH presented to outside 
+provider with fatigue, dyspnea, and weight loss, found to have 
+hgb of 6.0 and referred to ___ for blood transfusion with 
+appropriate rise in Hgb, now s/p unrevealing EGD and colonoscopy 
+discharged with plan for pill endsoscopy with GI in outpatient 
+setting and PCP follow up for iron deficiency anemia of unknown 
+etiology.",0,0,0,0,1,uncertain,nan,nan,False,False,False,False,0,0,0,0
+10683330,20081852,63,31,"TRANSITIONAL ISSUES
+===================
+[ ] f/u stomach and rectal polyp biopsy results
+[ ] will need pill endoscopy in outpatient setting with GI
+[ ] consider fibroscan to assess for cirrhosis
+[ ] f/u H pylori stool antigen, HBV and HCV serologies
+[ ] will need HLA DQ2 and DQ8
+[ ] colonoscopy here was inadequate for screening, she will need 
+a repeat colonoscopy in ___ year (___)
+
+ACUTE ISSUES
+============
+#Iron deficiency anemia
+Found to have hgb of 6 in outpatient setting after a few months 
+of fatigue.",0,1,0,0,0,current,nan,nan,False,True,False,False,0,1,0,0
+10683330,20081852,63,51,"===================================
+- You were feeling fatigued 
+- You reported that you were loosing weight
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?",1,1,0,0,0,current,nan,nan,True,True,False,False,1,1,0,0
+14395227,22086374,140,37,"She will likely benefit from outpatient PFTs and likely sleep 
+study as well.",1,0,0,0,0,uncertain,nan,nan,True,False,False,False,1,0,0,0
+14395227,22086374,140,41,"-continued home sertraline and bupropion
+-replaced home melatonin with ramelteon while in the hospital 
+and then restarted on discharge
+- She was given PRN flexeril as an inpatient but no prescription 
+was provided on discharge given prior SI attempt.",1,0,0,0,0,current,nan,nan,True,False,False,False,1,0,0,0
+14395227,22086374,140,53,"melatonin 6 mg oral QHS:PRN sleep 
+11.",1,0,0,1,0,current,nan,nan,True,False,False,True,1,0,0,1
+14395227,22086374,140,62,"melatonin 6 mg oral QHS:PRN sleep  
+9.",1,0,0,1,0,current,nan,nan,True,False,False,True,1,0,0,1
+16501485,26367593,185,30,"Past Medical History:
+-Depression  
+-Restless leg syndrome.",0,0,0,0,0,historical,nan,nan,False,False,False,False,0,0,0,0
+16501485,26367593,185,36,"Physical Exam:
+Admission physical exam: 
+VS: 96.8 106/69 68 18 94%RA-->improved to 97%RA when more awake 
+BS 113  
+GENERAL: Wavering sleepiness during the exam.",1,1,0,0,0,current,nan,nan,True,True,False,False,1,1,0,0

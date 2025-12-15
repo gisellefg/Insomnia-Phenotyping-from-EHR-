@@ -1,0 +1,6 @@
+Error_Type,Count,Rate
+False Negatives,6,0.1
+False Positives,3,0.05
+Rule A Errors,13,0.21666666666666667
+Rule B Errors,16,0.26666666666666666
+Rule C Errors,11,0.18333333333333332

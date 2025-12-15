@@ -1,0 +1,4 @@
+subject_id,icd_insomnia,rule_a,rule_b,rule_c,insomnia_flag,rule_a_gold,rule_b_gold,rule_c_gold,any_gold,sleep_raw,impair_raw,primary,secondary,rule_a_text,rule_b_text,rule_c_text,any_text
+16501485,0,0,0,0,0,0,0,0,0,True,True,False,False,1,0,0,1
+10683330,0,0,0,0,0,0,0,0,0,True,True,False,False,1,0,0,1
+14395227,0,0,0,0,0,0,0,0,0,True,False,False,True,0,0,1,1

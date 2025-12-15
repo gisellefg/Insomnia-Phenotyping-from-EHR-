@@ -1,0 +1,2687 @@
+subject_id,hadm_id,note_rowid,sent_id,text_span,asserts_sleep_difficulty,asserts_daytime_impairment,asserts_primary_med,asserts_secondary_med,negated,temporality,error,raw,is_sleep,is_impair,is_primary,is_secondary,confidence
+10240593,21634747,0,36,"# Paranoid schizophrenia: She was continued on haldol as above 
+and klonopin, celexa, tegretol.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+10240593,21634747,0,45,"Access: peripherals  
+Code: Full (presumed)  
+Communication: Patient  
+Emergency contact: Per psych records, ___ (child) 
+___ pt home number ___  
+ 
+Medications on Admission:
+tegretol 200mg BID  
+klonopin 0.5mg BID  
+celexa 30mg daily  
+enalapril maleate 20mg daily  
+HCTZ 25mg daily  
+simvastatin 20mg daily  
+haldol 20mg qhs  
+metoformin 1g BID  
+asa 81mg daily  
+ferrous sulfate 325mg BID  
+loratadine 10mg daily  
+eucerin PRN BID  
+Humulin 70/30 15 units BID  
+hydrocortisone cream 1% BID  
+colace 100 BID  
+senna 2 tabs BID  
+mylanta 30mL q4 PRN  
+milk of mag 30mL qhs PRN  
+ibuprofen 400mg q4 PRN  
+combivent 2 puffs QID PRN  
+haldol 5mg q6 PRN  
+acetaminophen 650mg q4 PRN  
+dextromethorphan HBr 10mL q6 PRN  
+
+ 
+Discharge Medications:
+1. Carbamazepine 200 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).",False,False,False,True,False,historical,,,False,False,False,False,0.5
+10240593,21634747,0,46,"2. Clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day).",False,False,False,True,False,current,,,False,False,False,True,1.0
+10240593,21249643,1,51,"Haldol and klonopin can both cause urinary 
+retention, however, neither of these meds are new to her, make 
+this etiology less likely.",False,False,False,False,True,uncertain,,,False,False,False,False,0.21
+10240593,21249643,1,63,"She was continued on her meds from psych facility 
+(haldol, klonopin, celexa, tegretol, zyprexa).",False,False,False,True,False,historical,,,False,False,False,False,0.5
+10240593,21249643,1,64,"Zyprexa and 
+haldol were given IM when pt refused PO.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+10240593,21249643,1,76,"# Communication: Patient and her legal guardian ___ 
+___ (pt does also have ___ per report from 
+___) 
+ 
+Medications on Admission:
+Medications (per ___ list):  
+klonopin 0.5 BID
+tegretol 200 BID
+enalapril 20 qam
+simvastatin 20 qam
+prilosec 20 daily
+haldol 10mg TID (if does not take PO meds, gets 10mg of haldol 
+IM)
+zyprexa 5mg daily (5mg IM if does not take PO)
+lispro sliding scale
+asa 81
+iron sulfate
+zinc oxide to excoriated wound
+trazodone 50 prn insomnia
+mylanta 30 mL prn
+milk of mag 30 ml prn
+combivent 2 puffs 4x daily prn
+haldol 5mg PO or IV prn psychosis
+tylenol prn
+guaifenesin prn
+ 
+Discharge Medications:
+1. Clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day).",True,False,False,True,False,current,,,True,False,False,True,1.0
+10240593,21249643,1,81,"6. Olanzapine 2.5 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily): If cannot tolerate PO, OK to give IM.",False,False,False,True,False,current,,,False,False,False,True,1.0
+10240593,21249643,1,85,"10. Trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime) as needed for insomnia.",True,False,False,True,False,current,,,True,False,False,True,1.0
+10240593,21249643,1,119,"4. STOP: HCTZ
+5. Continue wound care as directed
+6. START: Oxycodone as needed for pain
+7. Continue Olanzapine and Haldol as directed.",False,False,False,True,True,current,,,False,False,False,False,0.3
+10325512,26153860,2,38,"#) CAD: repeat echocardiogram showed no decline in LV systolic 
+function, will continue aspirin but atenolol has been 
+discontinued as patient's heart rate cannot tolerate beta 
+blockade
+ 
+Medications on Admission:
+fosamax 70 mg ___  
+asa 81 daily  
+atenolol 25 q evening  
+calcium carb 650 mg TID before meals  
+vitamin d 1000 units daily  
+aricept 5 mg HS  
+levothyroxine 137.5 mcg  
+lidocaine patch  
+oxycontin 10 mg q morning, 20 mg q evening  
+seroquel 37.5 mg qhs  
+senna bid  
+warm prune juice qAM  
+opth ointment, apply to each eyelid x7 days (6 days given) 
+
+ 
+Discharge Medications:
+1. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) 
+Tablet, Chewable PO TID (3 times a day) as needed for before 
+meals.",False,False,False,False,True,historical,,,False,False,False,False,0.15
+10325512,26153860,2,43,6. Quetiapine 25 mg Tablet Sig: 1.5 Tablets PO HS (at bedtime).,False,False,False,True,False,current,,,False,False,False,True,1.0
+10325512,25473583,3,10,"Language was fluent w/ no paraphasic
+errors.",False,False,False,False,False,uncertain,,,False,False,False,False,0.7
+10325512,25473583,3,20,"Medications on Admission:
+Senokot 2 tabs BID, calcium carbonate 650 mg BID, seroquel 37.5 
+mg QHS, aricept 10 mg QHS, oxycontin 10 mg BID, oxycodone 2.5 mg 
+Q6H PRN pain, synthroid ___ mcg daily, flonase 1 spray both 
+nares daily, aspirin 81 mg daily, zestril 10 mg daily, prilosec 
+80 mg daily, sorbitol 30 mL daily, tylenol ___ mg daily at noon, 
+fosamax 70 mg every ___, vitamin D-2 ___ units every 21 
+days, milk of mag 30 mL PRN constipation, bengay PRN pain 
+ 
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).",False,False,False,True,False,historical,,,False,False,False,False,0.5
+10325512,25473583,3,26,"7. Quetiapine 25 mg Tablet Sig: ___ Tablet PO QHS (once a day 
+(at bedtime)).",False,False,False,True,False,historical,,,False,False,False,False,0.5
+10325512,22496415,4,23,"Physical Exam:
+Physical Exam on Admission:  
+Vitals: T 96.4 BP 129/49 HR 52 RR 16 100RA  
+General:laying in bed sleepy but arousable, not cooperative with 
+exam, not answering ?s appropriately per son this is her 
+baseline  
+HEENT: EOMI, left eye ptosis and meiosis, both pupils reactive, 
+MMM  
+Neck:supple, no LAD  
+Heart: S1S2, RRR, no m,r,g appreciated  
+Lungs:CTAB on ant exam  
+Abdomen:NT, ND, BS+  
+Extremities: WWP, no ___ edema  
+Neurological:spinal TTP along entire ___, not cooperative for 
+neuro exam, no focal deficits noted  
+
+On Discharge:
+GA: Lying in bed.",True,False,False,False,False,current,,,True,False,False,False,1.0
+10325512,22496415,4,89,4) Discontinued Seroquel as patient was overly sedated in-house.,False,False,False,False,True,historical,,,False,False,False,False,0.15
+10325512,22496415,4,91,"Medications on Admission:
+Acetaminophen 675mg PO BID
+Calcium Carbonate 1300mg PO BID
+Duloxetine 60mg PO Daily
+Divalproex Sodium Sprinkle 125mg PO BID
+Donepezil 5mg PO qhs
+Ergocalciferol 500,000 units q12
+Fluticasone Propionate 1 puff BID
+Estrogen, Topical 
+Levothyroxine 150mcg PO daily
+Lidocaine patch 5% daily
+Lisinopril 10mg PO daily
+Omeprazole40mg PO daily
+Miralax 17GM PO daily
+Quetiapine Fumarate 12.5mg QHS
+Quetiapine Fumarate 12.5mg daily PRN anxiety
+Senna
+Trazodone 25mg PO QHS
+Oxycontin 30mg PO BID
+
+ 
+Discharge Medications:
+1.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+10325512,22496415,4,104,13. Seroquel 25 mg Tablet Sig: One (1) Tablet PO QHS.,False,False,False,True,False,historical,,,False,False,False,False,0.5
+10325512,22496415,4,105,"14. Seroquel 25 mg Tablet Sig: One (1) Tablet PO once a day as 
+needed for Anxiety, Agression.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+10325512,22496415,4,107,trazodone 50 mg Tablet Sig: 0.5 Tablet PO at bedtime.,False,False,False,True,False,current,,,False,False,False,True,1.0
+10451947,20691197,5,58,"She was started on a CIWA scale and required PO 
+Valium to help her.",False,False,False,True,False,current,,,False,False,False,True,1.0
+10451947,20691197,5,62,"She was given Valium 
+20 mg PO on discharge.",False,False,False,True,False,current,,,False,False,False,True,1.0
+10451947,20691197,5,73,"She was given a three day supply of Ativan 1 mg BID: 
+PRN anxiety.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+10451947,20691197,5,79,"Disp:*15 Tablet(s)* Refills:*0*
+2. Ativan 1 mg Tablet Sig: One (1) Tablet PO BID:PRN as needed 
+for anxiety.",False,False,False,True,False,current,,,False,False,False,True,1.0
+10451947,20691197,5,90,You also had alcohol withdrawal symptoms and given valium.,False,False,False,,False,uncertain,bad JSON,"{
+  ""asserts_sleep_difficulty"": false,
+  ""asserts_daytime_impairment"": false,
+  ""asserts_primary_med"": true, // Valium (diazepam) is a secondary insomnia medication
+  ""asserts_secondary_med"": true,
+  ""negated"": false,
+  ""temporality"": ""current""
+}",False,False,False,False,0.7
+10451947,29966221,6,6,"She was taken to OSH, where her labs 
+were notable for: Valproic acid ___, bicarbonate 16, ammonia was 
+1359, ETOH 48, salicalyte/tylenol negative and anion gap of 21. She received lactulose and ativan, and was transferred to ___.",False,False,True,True,False,historical,,,False,False,False,False,0.5
+10451947,29966221,6,14,"She was successfully extubated on ___, and 
+she was placed on an ativan CIWA scale and given a bannana bag 
+given her h/o Etoh abuse.",False,False,False,False,False,historical,,,False,False,False,False,0.5
+10451947,29966221,6,39,"Patient denies 
+any memory of ingesting anything.",False,False,False,False,True,current,,,False,False,False,False,0.3
+10451947,29966221,6,41,"Seroquel was 
+started on hospital day 3. The pt was kept ___ with a 
+1:1 sitter.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+10451947,29966221,6,61,"At the consult 
+team's rec, pt received seroquel 150mg QHS to help with sleep.",True,False,False,True,False,current,,,True,False,False,True,1.0
+10451947,29966221,6,62,"Medications on Admission:
+Unclear which medications patient is taking, the following have 
+been noted:
+Geodon  
+Lithium  
+Valproic acid  
+Chlorpromazine  
+Benztropine  
+Cymbalta  
+Naltrexone  
+Seroquel  
+Propranolol  
+
+ 
+Discharge Medications:
+1.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+10451947,29966221,6,64,"quetiapine 50 mg Tablet Sig: Three (3) Tablet PO HS (at 
+bedtime).",False,False,False,True,False,current,,,False,False,False,True,1.0
+10451947,29966221,6,69,"7. Valium 5 mg Tablet Sig: ___ Tablets PO every six (6) hours as 
+needed for CIWA >10. Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Valproic Acid overdose
+Alcohol abuse and withdrawal
+Bipolar disorder
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.",False,False,False,True,True,historical,,,False,False,False,False,0.15
+10451947,25266954,7,0,"Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: PSYCHIATRY
+ 
+Allergies: 
+SSRI
+ 
+Attending: ___
+ 
+Chief Complaint:
+s/p Depakote and Neurontin overdose
+ 
+Major Surgical or Invasive Procedure:
+None 
+ 
+History of Present Illness:
+The patient is a ___ year old Caucasian female, past history of 
+BPAD, opiate dependence, current alcohol dependence, one past SA 
+by OD one year ago, two past psych hospitalizations, last one 
+month ago at ___ who was transferred to ___ on ___ for 
+further treatment s/p OD on Depakote and Neurontin.",False,False,False,False,False,historical,,,False,False,False,False,0.5
+10451947,25266954,7,5,Patient denied any memory of ingesting anything.,False,False,False,False,True,uncertain,,,False,False,False,False,0.21
+10451947,25266954,7,10,"She was followed by C/L psychiatry, who recommended 
+discontinuing psych meds aside from seroquel 150 mg bid.",False,False,False,True,True,historical,,,False,False,False,False,0.15
+10451947,25266954,7,11,"Per OMR, pt stated she decided to overdose on meds when she had 
+trouble
+obtaining her other psych meds including thorazine, neurontin, 
+seroquel, depakote, and lithium that she had recently been 
+prescribed after her discharge from ___ in ___.",False,False,False,True,True,current,,,False,False,False,False,0.3
+10451947,25266954,7,14,"Also endorsed depressive symptoms 
+including difficulty sleeping, feelings of guilt/worthlessness, 
+SI, difficulty feeling pleasure while in the setting of numerous 
+psychosocial stressors including not having custody of her 
+children, living with her parents, unemployment.",True,False,False,False,False,current,,,True,False,False,False,1.0
+10451947,25266954,7,35,"S: increased in rate rate, normal volume, normal prosody
+M: ""Better.""
+A: brighter, appropriate, mood congruent
+TC: linear, goal oriented
+TP: no A/V hallucinations, no SI/HI, no evidence of delusions
+C: alert and oriented x3
+I: fair
+J: fair
+
+ 
+Pertinent Results:
+___ 06:50AM   PLT COUNT-168
+___ 06:50AM   WBC-7.3 RBC-3.69* HGB-11.1* HCT-32.5* MCV-88 
+MCH-30.1 MCHC-34.1 RDW-12.1
+___ 06:50AM   VALPROATE-30*
+___ 06:50AM   AMMONIA-33
+___ 06:50AM   CALCIUM-8.7 PHOSPHATE-3.1 MAGNESIUM-1.8
+___ 06:50AM   LIPASE-16
+___ 06:50AM   AMYLASE-37
+___ 06:50AM   GLUCOSE-95 UREA N-5* CREAT-0.6 SODIUM-139 
+POTASSIUM-3.5 CHLORIDE-106 TOTAL CO2-23 ANION GAP-14
+ 
+Brief Hospital Course:
+This is a ___ year old female history of bipolar disorder, ___ 
+transferred from MICU/medicine s/p OD of neurontin, depakote, 
+alcohol; event possibly suicide attempt in the setting of 
+numerous psychosocial stressors and being unable to obtain her
+prescription medications.",False,False,False,False,False,uncertain,,,False,False,False,False,0.7
+10451947,25266954,7,36,"Axis I: GAD, History of bipolar, polysubstance abuse, r/o MDD 
+Axis II: deferred
+Axis III: s/p Depakote and neurontin overdose 
+Axis IV: severe: unemployed, lives at home with dysfunctional
+parents, lost custody of children, multiple psych issues.",False,True,False,False,False,historical,,,False,False,False,False,0.5
+10451947,25266954,7,38,"Anxiety: Pt reports long history of severe anxiety with 
+chest pressure, racing thoughts, diaphoresis, inner feeling of 
+restlessness previously treated with numerous high-dose 
+medication (thorazine, seroquel, neurontin).",False,False,False,True,False,historical,,,False,False,False,False,0.5
+10451947,25266954,7,40,"In addition, stated anxiety sxs were best 
+controlled on neurontin, thorazine, seroquel.",False,False,False,False,True,historical,,,False,False,False,False,0.15
+10451947,25266954,7,41,"- Due to concerns of polypharmacy in the setting of two prior 
+overdoses, we initially held the patient's Depakote, Neurontin, 
+Thorazine, and continued Seroquel 150 mg bid.",False,False,False,False,True,uncertain,,,False,False,False,False,0.21
+10451947,25266954,7,42,"- Started mirtazapine 30 mg qhs for anxiety and depression, 
+however, pt continued to c/o severe anxiety symptoms.",False,False,False,True,True,uncertain,,,False,False,False,False,0.21
+10451947,25266954,7,43,"Eventually 
+added Luvox that was tapered up to 150 mg qhs as well as 
+thorazine 75 mg tid and 175 mg qhs, Neurontin 600 mg tid, and 
+atenolol that was tapered to 50 mg po qd with careful monitoring 
+of BP and HR.",False,False,False,True,False,current,,,False,False,False,True,1.0
+10451947,25266954,7,53,"To target 
+depressive and anxiety symptoms, we started mirtazapine and 
+Luvox.",False,False,False,True,False,current,,,False,False,False,True,1.0
+10451947,25266954,7,55,#) s/p overdose of depakote and neurontin: clinically stable.,False,False,False,True,True,current,,,False,False,False,False,0.3
+10451947,25266954,7,62,"Medications on Admission:
+Per outpatient pharmacy
+Seroquel 100 mg po qhs
+Seroquel XR 600mg po qd
+Chlorpromazine 100 mg po qid
+Lithium 300 mg po tid
+Gabapentin 600 mg po tid
+Depakote 500 mg po bid
+ 
+Discharge Medications:
+1.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+10451947,25266954,7,67,"mirtazapine 30 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).",False,False,False,True,False,current,,,False,False,False,True,1.0
+10451947,25266954,7,69,"quetiapine 300 mg Tablet Sig: 0.5 Tablet PO BID (2 times a 
+day) as needed for anxiety.",False,False,False,True,False,current,,,False,False,False,True,1.0
+10451947,25266954,7,71,"gabapentin 300 mg Capsule Sig: Two (2) Capsule PO TID (3 
+times a day).",False,False,False,True,False,current,,,False,False,False,True,1.0
+10451947,25266954,7,82,"Disp:*30 Tablet(s)* Refills:*1*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Axis I: GAD, History of bipolar, polysubstance abuse, r/o MDD, 
+Axis II: deferred
+Axis III: s/p Depakote and neurontin overdose 
+Axis IV: severe: unemployed, lives at home with dysfunctional
+parents, lost custody of children, multiple psych issues.",False,True,False,True,False,historical,,,False,False,False,False,0.5
+10497294,27162706,8,26,"Medications on Admission:
+ - vit B 100mg daily
+ - folate 1 tab PO daily
+ - benadryl 50mg PO TID PRN
+ - Hectorol 2.5mcg PO qweek
+ - Epogen 4000unit/mL soln with HD
+ - gabapentin 300mg PO qHS PRN
+ - metoprolol 100mg PO BID
+ - Ropinirole 2.5mg PO qHS
+ - lisinopril 5mg daily
+ - morphine 10mg BID - patient states he receives this at 
+prison, however this in not documented in physician notes here 
+at ___
+ - amitryptyline 25mg BID
+ 
+Discharge Medications:
+1.",False,False,False,True,False,current,,,False,False,False,True,1.0
+10497294,27162706,8,32,"gabapentin 300 mg Capsule Sig: One (1) Capsule PO HS PRN () 
+as needed for pain.",False,False,False,True,False,uncertain,,,False,False,False,False,0.7
+10497294,23719828,13,68,zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).,False,False,True,False,False,current,,,False,False,True,False,1.0
+10497294,29505948,18,99,"# Insomnia:
+Continued on his prior dose of amitriptyline.",False,False,False,False,True,historical,,,False,False,False,False,0.15
+10497294,29505948,18,100,"His ramelteon was 
+held due to concerns of possible toxicity to the renal 
+transplant.",True,False,True,False,True,historical,,,False,False,False,False,0.15
+10497294,22569872,20,3,"He reports trying to seek help earlier but was unable to get
+medical attention at his ___ facility.",False,False,False,False,True,historical,,,False,False,False,False,0.15
+10497294,22569872,20,111,"He was also started on gabapentin 
+100 mg daily as adjuvant medication which discussed with the 
+nephrology team.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+10497294,22569872,20,135,"GENERAL/SUPPORTIVE CARE: 
+#CODE: Full confirmed
+#CONTACT: ___ (Son) - No number on file
+For emergency contact, patient requests ___ (mom) be called
+___
+
+TRANSITIONAL ISSUES
+===================
+[] Continue azithromycin 250 mg daily for treatment of atypical 
+pneumonia (end date = ___
+[] Recommend outpatient referral to vascular medicine for 
+further evaluation of non-operative management of vascular 
+disease
+[] Consider repeat CT chest imaging to evaluate for resolution 
+of multifocal opacities
+[] Follow up with hand surgery in two weeks for further 
+management of dry gangrene
+[] Follow up with Dr. ___ surgery) at ___ in 
+approximately 1 month
+[] Gabapentin 100 mg daily started for pain control.",False,False,False,True,False,current,,,False,False,False,True,1.0
+10497294,24511922,21,36,"1. PredniSONE 5 mg PO EVERY OTHER DAY 
+2. Acetaminophen 650 mg PO Q8H:PRN Pain - Mild/Fever 
+3. Gabapentin 300 mg PO QHS 
+4. Cinacalcet 30 mg PO DAILY 
+5.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+10497294,24511922,21,40,"folic acid-vit B6-vit B12 (vit B complx-folic ac-C-biotin) 
+0.8-10-115 mg-mg-mcg oral DAILY  
+12. Furosemide 80 mg PO 4X/WEEK (___)  
+13. Gabapentin 300 mg PO QHS  
+14. Metoprolol Succinate XL 25 mg PO DAILY  
+15. NIFEdipine (Extended Release) 60 mg PO DAILY  
+16. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain  
+17. OxyCODONE (Immediate Release) 10 mg PO QPM:PRN Pain - 
+Moderate  
+18. OxyCODONE (Immediate Release) 10 mg PO QAM:PRN Pain - 
+Moderate  
+19. PredniSONE 5 mg PO EVERY OTHER DAY  
+20. Ranitidine 150 mg PO DAILY  
+21.",False,False,False,True,False,current,,,False,False,False,True,1.0
+12544417,24507287,22,1,"Chief Complaint:
+Shortness of breath, fatigue
+
+ 
+Major Surgical or Invasive Procedure:
+1. Aortic valve replacement 25 mm Bicor Epic tissue valve.",False,False,False,False,False,historical,,,False,False,False,False,0.5
+12544417,24507287,22,7,"Recently he had increased shortness of breath and fatigue from
+congestive heart failure.",False,True,False,False,False,historical,,,False,False,False,False,0.5
+12544417,24507287,22,55,"1. Furosemide 40 mg PO DAILY 
+am 
+2. Furosemide 20 mg PO DAILY 
+pm 
+3. Potassium Chloride 20 mEq PO DAILY 
+4. Lorazepam 0.5-1 mg PO HS:PRN insomnia 
+5. Omeprazole 40 mg PO BID 
+6. Viagra *NF* (sildenafil) 100 mg Oral prn ED 
+7. Astelin *NF* (azelastine) 137 mcg NU daily 
+8. Albuterol Inhaler 2 PUFF IH Q6H:PRN sob 
+
+ 
+Discharge Medications:
+1. Omeprazole 40 mg PO BID 
+2. Docusate Sodium 100 mg PO BID 
+3. Acetaminophen 650 mg PO/PR Q4H:PRN temperature >38.0 
+4. Aspirin EC 81 mg PO DAILY 
+5. Atenolol 25 mg PO BID 
+6. Albuterol Inhaler 2 PUFF IH Q6H:PRN sob 
+7. Astelin *NF* (azelastine) 137 mcg NU daily 
+8. Lorazepam 0.5-1 mg PO HS:PRN insomnia 
+RX *lorazepam 0.5 mg 0.5-1.0 mg by mouth hs Disp #*30 Tablet 
+Refills:*0
+9. Furosemide 40 mg PO DAILY 
+am 
+10. Potassium Chloride 20 mEq PO DAILY 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Critical Symptomatic AS, MR ___ flail anterior mitral leaflet 
+and ascending Aortic Aneurysm.",False,False,True,True,False,current,,,False,False,True,True,1.0
+12544417,24641366,23,110,"Attention to whether he needs diuretic and at what 
+dose will be done as outpatient as he resolves ___ space pleural 
+fluid in the post-op course.",False,False,False,False,False,uncertain,,,False,False,False,False,0.7
+12544417,24641366,23,124,"Will have outpatient follow up after recovery from 
+acute illness/recent surgery
+
+# Nutrition: iron supplement
+
+# Anxiety: lorazepam 0.5mg PO daily prn
+
+# Insomnia: zolpidem 5mg QHS prn
+
+# Rehab: HE was able to walk 60+ feet on level ground and climb 
+1 flight of stairs.",True,False,True,True,False,current,,,True,False,True,True,1.0
+12544417,24641366,23,130,"traZODONE 12.5 mg PO HS:PRN sleep 
+7. Bisacodyl 10 mg PO DAILY:PRN constipation 
+8. Guaifenesin ___ mL PO Q6H:PRN cough 
+9. Senna 2 TAB PO DAILY:PRN constipation 
+10. Albuterol Inhaler 2 PUFF IH Q6H:PRN SOB: Wheezing 
+11. Lorazepam 0.5 mg PO QDAY:PRN anxiety 
+12. Furosemide 80 mg PO DAILY 
+13. Potassium Chloride 20 mEq PO DAILY Duration: 24 Hours 
+ER formulation 
+14.",False,False,False,True,False,current,,,False,False,False,True,1.0
+12544417,24641366,23,141,"Please seen medical attention if you experience bleeding on this 
+medication.",False,False,False,False,True,uncertain,,,False,False,False,False,0.21
+12747844,24809439,26,31,"[ ] Follow up on plasma metanephrine level and consider 24-hour 
+urine metanephrine for further workup of possible 
+pheochromocytoma if her symptoms persists
+[ ] Will need EGD as follow up for cirrhosis management of 
+variceal monitoring
+[ ] If ___ has persistently poor appetite, consider starting 
+mirtazapine QHS for appetite stimulation
+[ ] Please titrate blood pressure medications as needed.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+12747844,21351037,27,5,On ___ she called with new fever and fatigue.,False,True,False,False,False,uncertain,,,False,False,False,False,0.7
+12747844,21351037,27,41,"ACUTE ISSUES
+============
+# Fever
+# Leukocytosis
+# Suspected cholangitis vs cholecystitis
+She presented with fever, fatigue and abdominal pain.",False,False,False,False,True,historical,,,False,False,False,False,0.15
+12747844,21351037,27,75,"===================================
+- You came to the hospital because you were experiencing fevers, 
+abdominal pain, nausea and fatigue.",False,False,False,False,False,uncertain,,,False,False,False,False,0.7
+13157375,24855226,29,1,"Chief Complaint:
+ ""I fought to get out.""
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Ms. ___ name: ___ is a ___ F  with a PMHx
+significant for self-reported OCD, PTSD, anxiety, depression,
+?EtOH Use Disorder, hypothyroidism, multiple prior psychiatric
+hospitalizations (most recent ___ ___ and overdose on
+trazodone (took 4 tabs ___ presenting to the ED w/
+hypothermia after being in the ___ at arrival of
+285; psychiatry is consulted to assess for suicidality.",True,False,False,True,False,current,,,True,False,False,True,1.0
+13157375,24855226,29,6,"Ms ___ does report a
+history of one prior overdose on 4 tabs of 50 mg trazodone that
+occurred in ___.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+13157375,24855226,29,10,"She
+denies looking up safe dosing before taking the medication, but
+denies medication overuse/misuse since that time and reports she
+continues to take Trazodone 50 mg QHS appropriately since that
+time.",False,False,False,True,True,historical,,,False,False,False,False,0.15
+13157375,24855226,29,26,"Ms ___ endorses ongoing depression For the past few weeks,
+Ms. ___ endorses ""crying all the time,"" having low energy,
+feeling ""scattered"" and not having an appetite and high levels 
+of
+guilt surrounding her divorce and describes herself as ""falling
+apart"" and ""having a lot of anxiety"".",False,True,False,False,False,current,,,False,True,False,False,1.0
+13157375,24855226,29,36,"___ (meets weekly ___ 3 pm), Dr. ___: once a month at ___, reports case
+manager ___ at ___ 
+Medication and ECT trials: Prozac ___ years after PTSD - 
+helpful),
+Paxil (new med), Trazodone, Ativan, Abilify, Risperdal, Lexapro
+Self-injury/Suicide attempts: Denies 
+Harm to others: Denies 
+Access to weapons: Denies access to weapons, including denies
+access to guns, endorses kitchen knives at home
+Trauma: patient reports being date-raped at age ___ resulting in
+PTSD; denies TBI
+
+PAST MEDICAL HISTORY:
+hypothyroidism
+depression
+anxiety
+PTSD
+
+MEDICATIONS:
+Pharmacy ___, ___ Pharmacy called by Dr. ___, confirmed meds as ___:
+Quetiapine 25 mg PO BID PRN anxiety 
+Quetiapine 50 mg PO QHS 
+Vistaril 25 mg PO BID (___) 
+Levothyroxine 25 mcg PO QAM (___)
+Desipramine 25 mg PO QHS (___) 
+
+___ Previous Meds Trials:
+Valcyclovir (___)
+Fluoxetine (___)
+escitalopram (___) 
+
+Patient reported current meds: Paxil, Ativan, Trazodone and
+Hydroxyzine
+Paxil ___ no record)
+Ativan  ___ no record) 
+Trazodone ___ tab ___
+
+ALLERGIES: 
+NKDA 
+
+ 
+Social History:
+SUBSTANCE ABUSE HISTORY:
+drinks 3 glasses of wine a week, BAL 285 at presentation; denies
+any use illicits or cigarettes.",True,False,False,True,True,current,,,False,False,False,False,0.3
+13157375,24855226,29,37,"FORENSIC HISTORY:
+Arrests: DUI in ___ (patient states that she was walking
+on slippery ice and was mistaken to be tipsy) 
+Convictions and jail terms: denies
+
+SOCIAL HISTORY:
+___
+Family History:
+FAMILY PSYCHIATRIC HISTORY:
+None known
+
+ 
+Physical Exam:
+EXAM: 
+*VS:  BP:  121/81 HR: 121 temp: 97.8  resp: 20 O2 sat: 95% RA   
+ 
+Neurological:  
+ *station and gait: not assessed 
+ *tone and strength: Patient moves all 4 extremities
+symmetrically, full apparent strength
+ cranial nerves: CN II-XII grossly normal 
+ abnormal movements: no tics, tremors, evidence of EPS
+ frontal release: not assessed 
+
+Cognition: 
+  Wakefulness/alertness: awake and alert
+  *Attention (digit span, MOYB): able to spell ""EARTH"" backwards
+with ease
+  *Orientation: oriented to place (___), person, and time
+(___)
+  Executive function (go-no go, Luria, trails, FAS): able to
+follow three-step command
+  *Memory:  was able to immediately recall and recall after 5
+minutes the 3 words easily.",False,False,False,False,True,uncertain,,,False,False,False,False,0.21
+13157375,24855226,29,42,no paraphasic errors.,False,False,False,False,True,historical,,,False,False,False,False,0.15
+13157375,24855226,29,55,"She was maintained on trazodone 50mg PO QHS 
+for sleep.",True,False,False,True,False,current,,,True,False,False,True,1.0
+13157375,24855226,29,65,"She will be discharged to home on Prozac 20 mg PO QD, 
+trazodone 50mg PO QHs and Depakote 500 mg QHS.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+13157375,24855226,29,93,"1. Levothyroxine Sodium 25 mcg PO QAM 
+2. PARoxetine 40 mg PO QHS 
+3. TraZODone 50 mg PO QHS 
+4. HydrOXYzine 25 mg PO BID 
+
+ 
+Discharge Medications:
+1. HydrOXYzine 25 mg PO Q4H:PRN anxiety 
+RX *hydroxyzine HCl 25 mg 1 tab by mouth q4hr Disp #*28 Tablet 
+Refills:*0
+2. Levothyroxine Sodium 50 mcg PO DAILY 
+3. TraZODone 50 mg PO QHS 
+RX *trazodone 50 mg 1 tablet(s) by mouth at bedtime Disp #*7 
+Tablet Refills:*0
+4. Divalproex (DELayed Release) 500 mg PO QHS 
+RX *divalproex [Depakote] 500 mg 1 tablet(s) by mouth at bedtime 
+Disp #*30 Tablet Refills:*0
+5. FLUoxetine 20 mg PO DAILY 
+RX *fluoxetine 20 mg 1 capsule(s) by mouth daily Disp #*30 
+Capsule Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Unspecified bipolar disorder 
+Alcohol use disorder
+
+ 
+Discharge Condition:
+Objective:
+    Exam:
+    *VS:  BP: 118/78 HR: 82 T 98.1 RR: 20 O2 sat: 100% RA
+
+  Neurological:
+    *Station and gait: walks with feet slightly pronated at
+baseline, normal gait
+    *Tone and strength: within normal limits
+    *Appearance: Middle aged Caucasian woman appearing stated
+age, wearing her own clothing
+  Behavior: Cooperative with interview, with good eye contact.",False,False,False,True,False,current,,,False,False,False,True,1.0
+13157375,24855226,29,99,"*Judgment and Insight: fair/fair 
+
+  Cognition:
+    *Attention, *orientation, and executive function: AAOx3
+    *Memory: grossly WNL
+    *Fund of knowledge: appears average
+    *Speech: normal rate, volume, prosody
+    *Language: fluent ___
+
+ 
+Discharge Instructions:
+-Please follow up with all outpatient appointments as listed - 
+take this discharge paperwork to your appointments.",False,False,False,False,False,uncertain,,,False,False,False,False,0.7
+13158370,22356177,30,8,"Her next memory is being found by EMS who took her to an
+OSH.",False,False,False,False,False,uncertain,,,False,False,False,False,0.7
+13158370,22356177,30,19,"No dysarthria or paraphasic errors (per translator)
+
+Cranial Nerves:
+I: Not tested
+___: Pupils equally round and reactive to light, to 1.5
+mm bilaterally.",False,False,False,False,True,uncertain,,,False,False,False,False,0.21
+13158370,22356177,30,38,"The basal cisterns, especially the quadrigeminal plate and 
+ambient cisterns are better visualized suggestive of improved 
+edema.",False,False,False,False,False,uncertain,,,False,False,False,False,0.7
+13158370,22356177,30,61,"There is worsening effacement of the suprasellar 
+and ambient cisterns consistent with increasing mass effect.",False,False,False,False,False,uncertain,,,False,False,False,False,0.7
+13158370,22356177,30,72,"2. Increasing mass effect and transtentorial herniation with 
+worsening effacement of the suprasellar and ambient cisterns.",False,False,False,False,False,uncertain,,,False,False,False,False,0.7
+13158370,23446112,31,13,"ROS
+PAIN SCALE: ___  epigastric pain radiating to the back 
+
+CONSTITUTIONAL:        [] All Normal
+[ +] Fever  [+ ] Chills   [ ] Sweats  [ ] Fatigue   [ ] Malaise  
+
+[ ]Anorexia  [ ]Night sweats
+[- ] _____ lbs.",False,False,False,False,False,historical,,,False,False,False,False,0.5
+13158370,23446112,31,14,"weight  loss/gain     over _____ months
+Eyes
+        [X] All Normal
+[ ] Blurred vision   [ ] Loss of vision [] Diplopia [ ]
+Photophobia
+ENT []
+[+ ] Dry mouth  [ ] Oral ulcers [ ] Bleeding gums [ ] Sore 
+throat
+[] Sinus pain [ ] Epistaxis  [ ] Tinnitus
+[ ] Decreased hearing    [ ] Other:
+RESPIRATORY:    [X] All Normal
+[ ] Shortness of breath      [ ] Dyspnea on exertion [ ] Can't
+walk 2 flights     [ ] Cough [ ] Wheeze  [ ] Purulent sputum    
+[
+] Hemoptysis   [ ]Pleuritic pain 
+[ ] Other:
+CARDIAC:        [X]  All Normal
+[ ] Palpitations   [ ] Edema   [ ] PND [ ] Orthopnea    [ ] 
+Chest
+Pain [ ] Dyspnea on exertion [ ] Other:
+GI:             [+] Per HPI
+GU:             [X] All Normal
+[ ] Dysuria      [ ] Incontinence or retention  [ ] Frequency   
+[ ] Hematuria  []Discharge []Menorrhagia  
+SKIN:           [] All Normal
+[ ] Rash        [ +] Pruritus
+NEURO:          [] All Normal
+[ ] Headache    [ ] Visual changes   [ ] Sensory change [
++]Confusion with anesthetic but none now[ ]Numbness of
+extremities
+[ ] Seizures   [ ] Weakness [ ] Dizziness/Lightheaded [ ]Vertigo
+[ ] Headache
+
+ 
+Past Medical History:
+# HTN/HLD
+# DM2 hgbA1C = 6.5 ___ not on any medications as outpt
+# atypical CP negative stress test ___
+# obesity
+# SAH
+# Anxiety
+# memory d/o
+# migraine
+# optic neuropathy 
+
+ 
+Social History:
+___
+Family History:
+Her father died of an MI at age ___.",False,False,False,False,True,historical,,,False,False,False,False,0.15
+13158370,23446112,31,21,"[] Non distended  [+] distended  [] bowel sounds Yes/No  [] 
+guiac: positive/negative
+7. Musculoskeletal-Extremities [X] WNL
+[ ] Tone WNL  [X]Upper extremity strength ___ and symmetrical  
+[]Other:
+[ ] Bulk WNL    [X] Lower extremity strength ___ and symmetrica 
+[] Other:
+8. Neurological [] WNL
+[X] Alert and Oriented x 3 [ ] Romberg: Positive/Negative  [ ] 
+CN II-XII intact  [ X] Normal attention  [ ] FNF/HTS WNL [] 
+Sensation WNL  [ -] Delirious/confused  [ ] Asterixis 
+Present/Absent  [ ] Position sense WNL
+9. Integument  [] WNL [X] Warm  [X] Dry  [] Cyanotic [] Rash:
+none/diffuse/face/trunk/back/limbs  
+10. Psychiatric [X] WNL [X] Appropriate [] Flat affect [-] 
+Anxious [] Manic []
+Intoxicated [X] Pleasant [] Depressed [] Agitated [] Psychotic  
+[] Combative
+
+ 
+Pertinent Results:
+LABS: ___ at ___
+140|103|8
+3.3|25 |0.6
+Ca = 8.4
+Mg = 1.9
+Tbili = 8.1 up from 5.7 on ___ 
+with Dbili = 6.8 up from 4.7 on ___
+AST = 156
+ALT = 461
+ALP = 378
+Lipase = 130
+ALP = 370
+      13.2
+11.6/39.1\253
+68.7N/0.7B/18.4L
+INR = 1.1
+.",False,False,False,False,False,uncertain,,,False,False,False,False,0.7
+13158370,26789912,32,23,"Past Medical History:
+# HTN/HLD
+# DM2 hgbA1C = 6.5 ___ not on any medications as outpt
+# atypical CP negative stress test ___
+# obesity
+# SAH
+# Anxiety
+# memory d/o
+# migraine
+# optic neuropathy 
+
+ 
+Social History:
+___
+Family History:
+Her father died of an MI at age ___.",False,False,False,False,True,historical,,,False,False,False,False,0.15
+13158370,26789912,32,91,"1. BuPROPion 100 mg PO BID 
+2. Lisinopril 5 mg PO DAILY 
+3. Metoprolol Succinate XL 25 mg PO DAILY 
+4. Atorvastatin 80 mg PO QPM 
+5. Hydrochlorothiazide 25 mg PO DAILY 
+6. MetFORMIN XR (Glucophage XR) 1000 mg PO BID 
+7. Cetirizine 10 mg PO DAILY 
+8. HydrOXYzine 25 mg PO Q8H:PRN itching 
+9. Vitamin D 1000 UNIT PO DAILY 
+10. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY  
+2. Atorvastatin 80 mg PO QPM  
+3. BuPROPion 100 mg PO BID  
+4. Cetirizine 10 mg PO DAILY  
+5. HydrOXYzine 25 mg PO Q8H:PRN itching  
+6. Lisinopril 5 mg PO DAILY  
+7. MetFORMIN XR (Glucophage XR) 1000 mg PO BID 
+Do Not Crush  
+8. Metoprolol Succinate XL 25 mg PO DAILY  
+9. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain  
+10. Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis
+===================
+Chest Pain
+
+Secondary Diagnoses
+===================
+DMII
+HTN
+HLD
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.",False,False,False,True,True,historical,,,False,False,False,False,0.15
+13689390,24224044,33,12,"Patient was 
+initially in ED obs with plan for stress test in the AM however 
+patient started to withdrawal and required multiple doses of 
+diazepam so is being admitted for etoh withdrawal.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+13689390,24224044,33,31,"Given valium per CIWA scale, w/o evidence of severe withdrawal.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+13689390,24708416,34,16,"Prior to transfer patient had 
+received valium 40mg, thiamine 100mg, and folic acid 1mg and 1L 
+NS.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+13689390,24708416,34,42,"In the setting of prior DTs and withdrawal 
+seizures he was treated with Valium per CIWA scoring.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+13689390,26653026,35,22,"Loaded with valium, given IVFs, bannana bag, stabilized 
+overnight.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+13689390,26653026,35,24,Was continued on CIWA scale/valium through the night.,False,False,False,True,False,historical,,,False,False,False,False,0.5
+13689390,26653026,35,25,Was also started on seroquel 300mg qhs (on this as outpt).,False,False,False,True,False,current,no JSON,"Based on the provided sentence and important rules:
+
+**Asserts sleep difficulty:** FALSE
+**Asserts daytime impairment:** FALSE
+**Asserts primary med:** FALSE
+**Asserts secondary med:** TRUE (quetiapin",False,False,False,True,1.0
+13689390,26653026,35,32,"Was not 
+given any Rx on discharge for valium/seroquel/cymbalta/klonopin 
+per psych recs since his plan was to continue drinking and he 
+openly admitted that he was abusing seroquel and cymbalta and he 
+still has active scripts at his pharmacy in ___.",False,False,False,True,True,historical,,,False,False,False,False,0.15
+13689390,26653026,35,38,Refuse to comply with diabetic diet (and seroquel not helping).,False,False,False,True,True,uncertain,,,False,False,False,False,0.21
+13689390,26653026,35,43,"Also on chronic klonipine (benzo) 
+contributing to withdrawal
+-Cont Valium per CIWA scale->decrease frequency as tolerated 
+(also given that patient is on chronic Klonipin).",True,False,False,True,False,current,,,True,False,False,True,1.0
+13689390,26653026,35,44,"monitor for 
+benzo intoxication
+-pt states very clearly that he intends to drink upon discharge 
+(is variable about wanting detox) so will NOT given Valium on 
+discharge since high risk of abuse
+- cont MVI, folate, thiamine
+- Psych and SW consult saw pt, he is NOT interested in inpatient 
+detox, wants to sign out AMA despite multiple discussions 
+emphasizing risk (weather, continued drinking)
+.",False,False,False,True,True,historical,,,False,False,False,False,0.15
+13689390,26653026,35,48,"- Valium as above, oxycodone 15mg (dec from 20mg) q4 prn for 
+pain (patient reports getting percocet-30 from PCP and off the 
+street for ___ and continue tylenol q6prn.",False,False,False,True,True,historical,,,False,False,False,False,0.15
+13689390,26653026,35,59,-well controlled now with valium and clonidine 0.2mg bid.,False,False,False,True,True,historical,,,False,False,False,False,0.15
+13689390,26653026,35,64,"Seroquel 
+making DM worse.",False,True,False,False,False,uncertain,,,False,False,False,False,0.7
+13689390,26653026,35,68,"-never recieved OSH records from OP Psych re: prior hx and  meds
+-for now, on seroquel 300mg qhs (pt admits that he abuses 
+seroquel as outpt).",False,False,False,True,True,historical,,,False,False,False,False,0.15
+13689390,26653026,35,69,"holding cymbalta and klonipin (on valium as 
+above)
+-spoke with psych resident, pt has refills on ALL his meds at 
+pharmacy and given that he openly admits that he abuses ALL his 
+meds, will no provide any additional Rx on discharge
+.",False,False,False,True,False,current,,,False,False,False,True,1.0
+13689390,26653026,35,72,"Medications on Admission:
+Glucotrol 10 mg BID
+Cymbalta 60 mg BID
+Nifedipine CR 30 mg
+Seroquel 300 mg HS
+Clonidine 0.2 mg BID
+Klonipin 2 mg TID
+percocet-30, 6 pills daily, prescribed, plus what patient buys 
+illicitly
+ 
+Discharge Medications:
+1. Quetiapine 200 mg Tablet Sig: 1.5 Tablets PO QHS (once a day 
+(at bedtime)).",False,False,False,True,False,historical,,,False,False,False,False,0.5
+13689390,26653026,35,79,"While here, you 
+developed alcohol withdrawal and were treated with valium.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+14210659,23050243,37,51,"# anxiety: pt was discontinued from lorazepam and did not 
+require treatment for anxiety
+
+# HLD: continued home pravastatin 
+
+# HTN: continued home metoprolol 
+
+# hypothyroidism: continued home SYnthroid.",False,False,False,False,True,historical,,,False,False,False,False,0.15
+14210659,23050243,37,69,"Pt's lorazepam was d/c'ed as she did not 
+require it in house.",False,False,False,True,True,historical,,,False,False,False,False,0.15
+14210659,23050243,37,71,"1. Mirtazapine 15 mg PO QHS 
+2. Ipratropium-Albuterol Neb 1 NEB NEB Q6H 
+3. Tiotropium Bromide 1 CAP IH DAILY 
+4. Metoprolol Succinate XL 50 mg PO DAILY 
+5. Fluticasone Propionate NASAL 2 SPRY NU DAILY 
+6. Pravastatin 40 mg PO QPM 
+7. Ferrous Sulfate 325 mg PO DAILY 
+8. Torsemide 20 mg PO 3X/WEEK (MO,TH,SA) 
+9. Budesonide Nasal Inhaler 80 mcg-4.5 mcg mcg Other BID 
+10. Donepezil 10 mg PO QHS 
+11. Calcium Carbonate 1000 mg PO BID 
+12. Aspirin 81 mg PO DAILY 
+13. Levothyroxine Sodium 112 mcg PO DAILY 
+14. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY:
+=========
+Chronic obstructive pulmonary disease
+Urinary tract infection
+Acute kidney injury
+
+SECONDARY:
+===========
+Atrial fibrillation
+Chronic diastolic heart failure
+Anemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.",False,False,False,True,False,current,,,False,False,False,True,1.0
+14210659,29793943,38,0,"Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Percocet / Banana / latex / Macrobid / melatonin
+ 
+Attending: ___.",False,False,True,True,False,uncertain,,,False,False,False,False,0.7
+14210659,29793943,38,1,"Chief Complaint:
+dyspnea, chest pain
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ w/CHF, COPD (Gold Stage II) on chronic azithro (no 
+prednisone), valvular heart disease (3+ MR/2+TR per ___ TTE), 
+and atrial fibrillation, remote h/o colorectal ca s/p ostomy, 
+suprapubic catheter, presenting with malaise x 4 days, and new 
+onset chest pain and dyspnea.",False,False,False,False,False,historical,,,False,False,False,False,0.5
+14210659,29793943,38,81,"Discharge Labs:
+=============== 
+___ 04:50AM BLOOD WBC-11.2* RBC-3.57* Hgb-9.4* Hct-30.9* 
+MCV-87 MCH-26.3 MCHC-30.4* RDW-15.0 RDWSD-46.9* Plt ___
+___ 04:52AM BLOOD Neuts-88.8* Lymphs-5.1* Monos-5.1 
+Eos-0.0* Baso-0.2 Im ___ AbsNeut-10.98*# AbsLymp-0.63* 
+AbsMono-0.63 AbsEos-0.00* AbsBaso-0.02
+___ 04:50AM BLOOD Plt ___
+___ 05:50AM BLOOD ___
+___ 04:50AM BLOOD Glucose-99 UreaN-32* Creat-0.9 Na-144 
+K-3.7 Cl-109* HCO3-24 AnGap-15
+___ 05:18AM BLOOD ALT-19 AST-12 AlkPhos-56 TotBili-0.4
+___ 04:50AM BLOOD Calcium-9.2 Phos-3.0 Mg-2.___ with PMH CHF, COPD (Gold Stage II) on chronic azithromycin, 
+valvular heart disease (3+ MR/2+TR per ___ TTE), and atrial 
+fibrillation, remote h/o colorectal cancer s/p ostomy, and 
+suprapubic catheter, who presented with malaise x 4 days, 
+hyponatremia, and new onset cough and dyspnea, thought to be 
+secondary to pulmonary edema as well as pneumonia.",False,True,False,False,False,current,,,False,True,False,False,1.0
+14210659,21859060,39,0,"Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Percocet / Banana / latex / Macrobid / melatonin
+ 
+Attending: ___.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+14210659,21859060,39,32,"Transitional issues:
+#STARTED levofloxacin 500mg Q48 for 7 day course treatment for 
+pneumonia, last day ___ (two doses ___ and ___
+#Please re-check electrolytes at next outpatient appointment, 
+check Na and K
+#STOPPED digoxin
+#DECREASED mirtazapine from 15mg to 7.5mg due to fatigue, 
+considering stopping this medication as outpatient
+#Consider stopping statin
+#STOPPED tramadol
+#Repeat chest x-ray in 6 weeks to assess for resolution of 
+pneumonia
+#GOAL O2: >88% on RA.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+14210659,21859060,39,36,"1. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever 
+2. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN SOB 
+3. Aspirin 81 mg PO DAILY 
+4. Calcium Carbonate 1000 mg PO BID 
+5. Ipratropium-Albuterol Neb 1 NEB NEB Q6H 
+6. Mirtazapine 15 mg PO QHS 
+7. Multivitamins 1 TAB PO DAILY 
+8. Omeprazole 20 mg PO BID 
+9. Pravastatin 40 mg PO QPM 
+10. Senna 8.6 mg PO DAILY 
+11. Tiotropium Bromide 1 CAP IH DAILY 
+12. Clarinex (desloratadine) 5 mg oral DAILY 
+13. Fluticasone Propionate NASAL 2 SPRY NU DAILY 
+14. FoLIC Acid 1 mg PO DAILY 
+15. Pyridoxine 250 mg PO DAILY 
+16. Symbicort (budesonide-formoterol) 80-4.5 mcg/actuation 
+inhalation DAILY 
+17. Vitamin D ___ UNIT PO DAILY 
+18. Cyanocobalamin 1000 mcg IM/SC MONTHLY 
+19. Levothyroxine Sodium 137.5 mcg PO DAILY 
+20. Torsemide 10 mg PO 3X/WEEK (___) 
+21. Metoprolol Succinate XL 100 mg PO DAILY 
+22. Digoxin 0.25 mg PO DAILY 
+23. Lidocaine 5% Patch 1 PTCH TD QAM 
+24. Donepezil 10 mg PO QHS 
+25. Azithromycin 250 mg PO Q24H 
+26. Cefpodoxime Proxetil 400 mg PO Q24H 
+
+ 
+Discharge Medications:
+1. Artificial Tears ___ DROP BOTH EYES PRN Dry eyes  
+2. Levofloxacin 500 mg PO Q48H Duration: 2 Doses 
+To be taken on ___ and ___.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+14210659,21859060,39,37,"Mirtazapine 7.5 mg PO QHS  
+4. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+5. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN SOB  
+6. Aspirin 81 mg PO DAILY  
+7. Azithromycin 250 mg PO Q24H  
+8. Calcium Carbonate 1000 mg PO BID  
+9. Clarinex (desloratadine) 5 mg oral DAILY  
+10. Cyanocobalamin 1000 mcg IM/SC MONTHLY  
+11. Donepezil 10 mg PO QHS  
+12. Fluticasone Propionate NASAL 2 SPRY NU DAILY  
+13. FoLIC Acid 1 mg PO DAILY  
+14. Ipratropium-Albuterol Neb 1 NEB NEB Q6H  
+15. Levothyroxine Sodium 137.5 mcg PO DAILY  
+16. Lidocaine 5% Patch 1 PTCH TD QAM  
+17. Metoprolol Succinate XL 100 mg PO DAILY  
+18. Multivitamins 1 TAB PO DAILY  
+19. Omeprazole 20 mg PO BID  
+20. Pravastatin 40 mg PO QPM  
+21. Pyridoxine 250 mg PO DAILY  
+22. Senna 8.6 mg PO DAILY  
+23. Symbicort (budesonide-formoterol) 80-4.5 mcg/actuation 
+inhalation DAILY  
+24. Tiotropium Bromide 1 CAP IH DAILY  
+25. Torsemide 10 mg PO 3X/WEEK (___)  
+26. Vitamin D ___ UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+Primary:
+Influenza A
+Pneumonia
+Altered mental status
+
+Secondary:
+COPD
+congestive heart failure
+
+ 
+Discharge Condition:
+Confused sometimes, generally clear and coherent.",True,False,False,True,False,current,,,True,False,False,True,1.0
+14210659,21859060,39,41,"When you 
+arrived at ___, you tested positive for the flu which was 
+causing a fever as well as some confusion and tiredness.",False,False,False,,False,uncertain,bad JSON,"{
+  ""asserts_sleep_difficulty"": false,
+  ""asserts_daytime_impairment"": true, // due to ""tiredness""
+  ""asserts_primary_med"": false,
+  ""asserts_secondary_med"": false,
+  ""negated"": false,
+  ""temporality"": ""current""
+}",False,False,False,False,0.7
+15090960,21152186,40,5,"She reports that she is not sleeping , eating and is quite
+hopeless,is hearing voices telling her to ""just do it"", is
+depressed and suicidal and is requesting admission to a dual
+diagnosis unit.",True,False,False,False,True,current,,,False,False,False,False,0.3
+15090960,21152186,40,8,"___ notes
+dated ___, confirmed and updated with patient
+- no current psychiatrist was last treated over a year ago
+  by ___ @ ___
+- Prior diagnoses: PTSD, depression, anxiety
+- Hospitalizations: last @ ___, ___ prior
+admissions; ___ in ___ for alcohol intoxication
+with a BAL of 400; ___ in ___ also
+inpatient at ___
+- Medication and ECT trials: Zyprexa, Prozac, Ativan
+- Suicide attempts: several via overdose
+- Self-injurious behavior: denies
+- Harm to others: denies
+- Access to weapons: denies
+ 
+PAST MEDICAL HISTORY: per Dr. ___ note dated ___,
+confirmed and updated with patient
+* Primary care physician: ___
+- ___
+- Asthma
+- Chronic pain in extremities
+- H/O abdominal trauma
+- Denies history of head trauma or seizures
+ 
+
+ 
+Social History:
+___
+Family History:
+ Suicide completion by older brother, alcoholic who drove car
+into a pond in ___ ___ years ago
+- Negative for mood or personality disorders.",False,False,False,False,True,uncertain,,,False,False,False,False,0.21
+15090960,21152186,40,9,"She required 
+between 60-90mg of valium on the first three two days of 
+hospitalization.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+15090960,21152186,40,18,"Seroquel 50mg  was started to treat insomnia and anxiety with 
+uptitration to 100mg at bedtime.",True,False,False,True,False,current,,,True,False,False,True,1.0
+15090960,21152186,40,19,"Hydroxyzine was used on an prn 
+basis to address severe anxiety.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+15090960,21152186,40,32,"1. Paroxetine 30 mg PO DAILY 
+2. CloniDINE 0.1 mg PO TID 
+3. TraZODone 50 mg PO HS 
+4. OLANZapine 20 mg PO HS 
+5. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1. Multivitamins 1 TAB PO DAILY 
+2. Atenolol 25 mg PO BID 
+3. Citalopram 20 mg PO DAILY 
+4. FoLIC Acid 1 mg PO DAILY 
+5. HydrOXYzine 25 mg PO Q6H:PRN anxiety/nausea 
+6.",False,False,False,True,False,current,,,False,False,False,True,1.0
+15090960,21152186,40,33,"naltrexone 50 mg oral qhs 
+7. QUEtiapine Fumarate 100 mg PO HS 
+8. Omeprazole 20 mg PO BID 
+9. Thiamine 100 mg PO DAILY 
+10. QUEtiapine Fumarate 25 mg PO BID:PRN anxiety 
+11. CloniDINE 0.1 mg PO TID 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Alcohol dependence
+PTSD
+Depression NOS
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.",False,False,False,True,False,current,,,False,False,False,True,1.0
+15090960,21152186,40,36,"Discharge Instructions:
+During your admission at ___, you were diagnosed with alcohol 
+dependence, depression and PTSD and treated included medication 
+with naltrexone, celexa and seroquel.",False,False,False,False,True,historical,,,False,False,False,False,0.15
+15203294,21783644,41,14,"He says he has asked about Gabapentin in the past 
+but has never tried it.",False,False,False,,False,uncertain,bad JSON,"{
+  ""asserts_sleep_difficulty"": false,
+  ""asserts_daytime_impairment"": false,
+  ""asserts_primary_med"": false,
+  ""asserts_secondary_med"": true, // Gabapentin is a secondary insomnia medication
+  ""negated"": false, // No negation present in the sentence
+  ""temporality"": ""historical"" // The sentence mentions a past request for Gabapentin, indicating historical temporality
+}",False,False,False,False,0.7
+15203294,21783644,41,40,"He had been 
+asking his PCP to take him off of narcotics and agreed to 
+transition to gabapentin.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+15203294,21783644,41,41,"His hydrocodone-acetaminophen was 
+discontinued and he was started on gabapentin 100mg TID, to be 
+uptitrated as an outpatient.",False,False,False,True,True,historical,,,False,False,False,False,0.15
+15203294,21783644,41,48,"He was continued on 
+sertraline, trazodone, and clonazepam BID PRN.",False,False,False,True,False,current,,,False,False,False,True,1.0
+15203294,21783644,41,54,"He was started instead on 
+low-dose gabapentin for right arm pain.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+15203294,21783644,41,59,"1. Albuterol Inhaler ___ PUFF IH Q4H:PRN shortness of breath 
+2. ClonazePAM 2 mg PO BID:PRN anxiety 
+3. HYDROcodone-acetaminophen ___ mg oral QID:PRN pain 
+4. Metoprolol Tartrate 100 mg PO BID 
+5. Omeprazole 40 mg PO BID 
+6. Sertraline 200 mg PO DAILY 
+7. TraZODone 200 mg PO QHS 
+
+ 
+Discharge Medications:
+1. ClonazePAM 2 mg PO BID:PRN anxiety 
+2. Metoprolol Tartrate 100 mg PO BID 
+3. Omeprazole 40 mg PO BID 
+4. Sertraline 200 mg PO DAILY 
+5. TraZODone 200 mg PO QHS 
+6. Gabapentin 100 mg PO TID 
+RX *gabapentin 100 mg 1 capsule(s) by mouth three times per day 
+Disp #*90 Capsule Refills:*0
+7. Albuterol Inhaler ___ PUFF IH Q4H:PRN shortness of breath 
+8. Lidocaine Viscous 2% 15 mL PO QID:PRN abdominal pain 
+RX *lidocaine HCl 2 % 15 mL by mouth four times per day 
+Refills:*1
+9. Aluminum-Magnesium Hydrox.-Simethicone 15 mL PO QID:PRN 
+abdominal pain 
+RX *alum-mag hydroxide-simeth [Maalox Advanced] 200 mg-200 mg-20 
+mg/5 mL 15 ML by mouth four times per day Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary
+Abdominal pain, nausea, vomiting
+
+Secondary
+Asthma
+CAD s/p CABG
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.",False,False,False,True,False,current,,,False,False,False,True,1.0
+15203294,29363588,42,4,"History of steroid use
+Asthma
+Cluster headaches
+s/p CABGx4
+Prior Etoh usage  
+psych
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+claw hand of ulnar palsy with superimposed weakness of extension
+ 
+Brief Hospital Course:
+operated upon on ___ discharged ___ there were no intra 
+operative or ___ hospital complications
+ 
+Medications on Admission:
+l
+i
+p
+i
+t
+o
+r,famotidine,neurontin,methadone,metoprolol,sertraline,androgel,
+ 
+Discharge Medications:
+same
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+paralysis/contracture right upper limb
+
+ 
+Discharge Condition:
+stable physically and mentally
+
+ 
+Discharge Instructions:
+keep hand clean  dry  elevated.",False,False,False,True,False,current,,,False,False,False,True,1.0
+15203294,27696974,43,5,"Medications on Admission:
+neurontin,metoprolol,lipitor,zoloftpepcid, methadone
+ 
+Discharge Medications:
+same
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+paralysis right hand
+
+ 
+Discharge Condition:
+stable both mentally and physically, ambulatory
+
+ 
+Discharge Instructions:
+keep right hand clean dry elevated
+ 
+Followup Instructions:
+___",False,False,False,True,False,historical,,,False,False,False,False,0.5
+15203294,27798452,44,51,"1. Albuterol Inhaler 2 PUFF IH Q4H:PRN wheezing 
+2. Clobetasol Propionate 0.05% Ointment 1 Appl TP DAILY 
+3. ClonazePAM 2 mg PO BID:PRN anxiety 
+4. Metoprolol Tartrate 100 mg PO BID 
+5. Sertraline 200 mg PO DAILY 
+6. TraZODone 200 mg PO HS:PRN insomnia 
+7. Atorvastatin 80 mg PO DAILY 
+8. Ibuprofen 600 mg PO Q8H:PRN pain 
+9. Pantoprazole 40 mg PO Q24H 
+
+ 
+Discharge Medications:
+1. Albuterol Inhaler 2 PUFF IH Q4H:PRN wheezing 
+2. Atorvastatin 80 mg PO DAILY 
+3. ClonazePAM 2 mg PO BID:PRN anxiety 
+4. Metoprolol Tartrate 100 mg PO BID 
+5. Sertraline 200 mg PO DAILY 
+6. TraZODone 200 mg PO HS:PRN insomnia 
+7. Sucralfate 1 gm PO QID 
+RX *sucralfate [Carafate] 1 gram 1 tablet(s) by mouth twice a 
+day Disp #*28 Tablet Refills:*0
+8. Clobetasol Propionate 0.05% Ointment 1 Appl TP DAILY 
+9. Omeprazole 40 mg PO DAILY 
+RX *omeprazole 40 mg 1 capsule,delayed ___ by 
+mouth daily Disp #*14 Capsule Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Abdominal Pain
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.",True,False,False,True,False,current,,,True,False,False,True,1.0
+15229355,26039419,45,20,"Patient received:
+___ 05:38 PO/NG Carbidopa-Levodopa (___) 1.5 TAB
+___ 05:38 PO/NG PredniSONE 10 mg
+___ 06:45 IVF NS ___ Started by Other Person 
+250
+___ 08:53 PO/NG Carbidopa-Levodopa (___) 1.5 TAB
+___ 08:53 PO/NG Levothyroxine Sodium 25 mcg
+___ 08:53 PO Pantoprazole 40 mg
+___ 09:02 IH Fluticasone Propionate 110mcg 2 PUFF
+___ 10:48 IH Ipratropium Bromide Neb 1 NEB
+___ 12:13 PO/NG Carbidopa-Levodopa (___) 1.5 TAB
+___ 14:23 IV CefTRIAXone 1 gm
+___ 15:53 IVF NS ___
+___ 15:56 PO/NG Carbidopa-Levodopa (___) 1.5 TAB
+___ 17:13 IH Ipratropium Bromide Neb 1 NEB
+___ 19:43 PO/NG Carbidopa-Levodopa (___) 1.5 TAB
+___ 19:43 PO/NG Docusate Sodium 100 mg
+___ 19:43 PO/NG Atorvastatin 20 mg
+___ 19:43 IH Fluticasone Propionate 110mcg 2 PUFF
+___ 20:48 PO Pantoprazole 40 mg
+___ 20:48 PO/NG Aluminum-Magnesium Hydrox.-Simethicone 30 
+mL
+___ 20:48 PO/NG LORazepam .25 mg
+
+Transfer VS were:
+89 148/83 16 100%2L NC
+On arrival to the floor, patient reports she feels improved and 
+calm.",False,False,False,True,False,current,,,False,False,False,True,1.0
+15229355,26039419,45,21,"She was somnolent but arousable and son reported she had 
+been like this after the ED gave her lorazepam.",True,False,False,True,False,historical,,,False,False,False,False,0.5
+15229355,26039419,45,74,"Patient 
+was not oriented this AM but also received Ativan in the ED last 
+night.",False,False,False,,False,uncertain,bad JSON,"{
+  ""asserts_sleep_difficulty"": false,
+  ""asserts_daytime_impairment"": true, // Patient was not oriented (AM)
+  ""asserts_primary_med"": false,
+  ""asserts_secondary_med"": true, // Ativan (lorazepam) is a secondary insomnia medication
+  ""negated"": true, // ""was not oriented"" implies negation of normal orientation
+  ""temporality"": ""current""
+}",False,False,False,False,0.7
+15229355,26039419,45,93,"melatonin 3 mg oral QHS 
+9. Perforomist (formoterol fumarate) 20 mcg/2 mL inhalation BID 
+10. Levothyroxine Sodium 25 mcg PO DAILY 
+11. Senna 8.6 mg PO BID 
+12. Docusate Sodium 100 mg PO BID 
+13. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+14. Aluminum-Magnesium Hydrox.-Simethicone ___ mL PO QID:PRN 
+indigestion 
+15. Atorvastatin 20 mg PO QPM 
+16. Carbidopa-Levodopa (___) 1.5 TAB PO QID 
+17. PredniSONE 10 mg PO DAILY 
+18.",False,False,False,True,False,current,,,False,False,False,True,1.0
+15229355,26039419,45,97,"melatonin 3 mg oral QHS  
+12. Multivitamins 1 TAB PO DAILY  
+13. OxyCODONE (Immediate Release) 2.5 mg PO BID:PRN Pain - 
+Moderate  
+14. Pantoprazole 40 mg PO Q12H  
+15. Perforomist (formoterol fumarate) 20 mcg/2 mL inhalation 
+BID  
+16. Polyethylene Glycol 17 g PO DAILY:PRN constipation  
+17. PredniSONE 10 mg PO DAILY  
+18. Senna 8.6 mg PO BID  
+19. Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+==================
+Primary Diagnosis
+==================
+Esophageal dysmotility and esophageal reflux secondary to 
+presbyesophagus
+
+===================
+Secondary Diagnosis
+===================
+Reactive Airway Disease
+Uncomplicated Bacterial UTI
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.",False,False,False,True,False,uncertain,,,False,False,False,False,0.7
+15229355,29333027,46,14,"Past Medical History:
+___ Disease  
+ HTN  
+ Bronchitis  
+ Bilateral blindness  
+ Reactive airway disease  
+ Hypothyroidism  
+ HLD  
+
+ 
+Social History:
+___
+Family History:
+Reviewed and none pertinent to this hospitalization
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+==========================  
+VS: 98.0 PO 140 / 64 64 18 98 Ra  
+GENERAL: NAD, alert but sleepy.",False,False,False,False,False,uncertain,,,False,False,False,False,0.7
+15229355,29333027,46,21,"Follows commands  
+
+DISCHARGE PHYSICAL EXAM:
+=========================
+Vs:
+24 HR Data (last updated ___ @ 741) Temp: 98.1 (Tm 98.7),
+BP: 102/48 (manual BP) (96-164/48 (manual BP)-83), HR: 68
+(68-84), RR: 18 (___), O2 sat: 91% (___), O2 delivery: RA,
+Wt: 118.2 lb/53.62 kg  
+
+GENERAL: NAD, alert but sleepy.",True,False,False,False,False,current,,,True,False,False,False,1.0
+15229355,29333027,46,44,"We will continue to hold home alprazolam, 
+trazodone, and oxycodone given high risk for delirium with these 
+medications.",False,False,False,True,False,current,,,False,False,False,True,1.0
+15229355,29333027,46,62,"We will continue to hold home alprazolam, trazodone, 
+and oxycodone given high risk for delirium with these 
+medications.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+15229355,29333027,46,70,"formoterol fumarate 20 mcg/2 mL inhalation DAILY 
+9. Levalbuterol Neb 0.63 mg NEB Q6H 
+10. Levothyroxine Sodium 25 mcg PO DAILY 
+11. Nexium 40 mg Other DAILY 
+12. OxyCODONE (Immediate Release) 2.5-5 mg PO Q8H:PRN Pain - 
+Moderate 
+13. TraZODone 25 mg PO QHS:PRN insomnia 
+14.",True,False,False,True,False,current,,,True,False,False,True,1.0
+15229355,29333027,46,71,"melatonin 3 mg oral QHS 
+15. Multivitamins 1 TAB PO DAILY 
+16. Vitamin D 1000 UNIT PO DAILY 
+17.",False,False,False,True,False,current,,,False,False,False,True,1.0
+15229355,29333027,46,76,"melatonin 3 mg oral QHS  
+14. Multivitamins 1 TAB PO DAILY  
+15. Polyethylene Glycol 17 g PO DAILY  
+16. PredniSONE 10 mg PO DAILY  
+17. Vitamin D 1000 UNIT PO DAILY  
+18. HELD- ALPRAZolam 0.25 mg PO BID  This medication was held.",False,False,False,True,True,historical,,,False,False,False,False,0.15
+15229355,29333027,46,78,"Do not restart OxyCODONE 
+(Immediate Release) until you follow-up with PCP
+20. HELD- TraZODone 25 mg PO QHS:PRN insomnia  This medication 
+was held.",True,False,False,True,False,current,,,True,False,False,True,1.0
+15229355,29333027,46,79,"Do not restart TraZODone until you follow-up with your 
+PCP
+
+ 
+___:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+================== 
+PRIMARY DIAGNOSIS 
+================== 
+Uncomplicated UTI 
+Toxic Metabolic Encephalopathy 
+ 
+=================== 
+SECONDARY DIAGNOSIS 
+=================== 
+___ disease 
+esophageal dysmotility 
+reactive airway disease  
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.",False,False,False,True,False,current,bad JSON,"{
+  ""asserts_sleep_difficulty"": false,
+  ""asserts_daytime_impairment"": true, // Mental Status: Confused - sometimes.
+  ""asserts_primary_med"": false,
+  ""asserts_secondary_med"": true, // TrAzODone (mentioned as a medication to be restarted)
+  ""negated"": true, // Do not restart TraZODone
+  ""temporality"": ""current""
+}",False,False,False,True,1.0
+15229355,24053200,47,35,"melatonin 3 mg oral QHS 
+13. TraZODone 25 mg PO QHS:PRN insomnia 
+14. Nexium 40 mg Other DAILY 
+15. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 
+16. OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - Mild 
+17. PredniSONE 20 mg PO DAILY 
+18.",True,False,False,True,False,current,,,True,False,False,True,1.0
+15229355,29074135,48,28,"Patient given:
+___ 15:09 IH Albuterol 0.083% Neb Soln 1 NEB 
+___ 15:09 IH Ipratropium Bromide Neb 1 NEB  
+___ 20:08 IH Albuterol 0.083% Neb Soln 1 NEB 
+___ 20:08 IH Ipratropium Bromide Neb 1 NEB 
+___ 20:08 IV CefTRIAXone  
+___ 20:12 IV CefTRIAXone 1 gm L
+___ 21:55 PO/NG Carbidopa-Levodopa (___) 1.5 TAB 
+___ 21:55 PO/NG ALPRAZolam .25 mg 
+
+On interview, the patient states that she is tired.",True,True,False,True,False,current,,,True,True,False,True,1.0
+15229355,29074135,48,55,"- Complete course of amoxicillin 500mg PO TID x5 more days
+
+# Acute toxic metabolic encephalopathy: Patient sleepy but 
+arousable on initial interview, with subsequent course notable 
+for waxing/waning alertness.",True,False,False,False,False,current,,,True,False,False,False,1.0
+15229355,29074135,48,77,"# Anemia: Chronic, stable
+# ___ disease: Continued carbidopa/levodopa
+# Glaucoma: Continued eye gtts
+# Hypothyroidism: Continued levothyroxine
+# Hypertension: Controlled without medications
+# Hyperlipidemia: Continued atorvastatin
+# Anxiety: Continued alprazolam as needed
+# Insomnia: Continued trazodone; substitute ramelteon for 
+melatonin
+
+>30 minutes spent coordinating discharge home with services
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.",True,False,False,True,False,current,,,True,False,False,True,1.0
+15229355,29074135,48,79,"carbidopa 25 mg oral QAM 
+4. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+5. Hyoscyamine 0.125 mg SL TID:PRN abd pain 
+6. Ipratropium Bromide Neb 1 NEB IH Q6H 
+7. Levalbuterol Neb 0.63 mg NEB Q6H:PRN sob 
+8. Levothyroxine Sodium 25 mcg PO DAILY 
+9. Multivitamins W/minerals 1 TAB PO DAILY 
+10. Perforomist (formoterol fumarate) 20 mcg/2 mL inhalation BID 
+
+11. TraZODone 12.5 mg PO QHS:PRN insomnia 
+12. ALPRAZolam 0.25 mg PO TID:PRN anxiety 
+13.",True,False,False,True,False,current,,,True,False,False,True,1.0
+15229355,29074135,48,80,"melatonin 3 mg oral QHS 
+14. Nexium 40 mg Other DAILY 
+15. OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - Mild 
+16. Carbidopa-Levodopa (___) 2 TAB PO BID 
+17. Carbidopa-Levodopa (___) 1.5 TAB PO BID 
+18. Carbidopa-Levodopa (___) 1 TAB PO ___ 
+19. PredniSONE 10 mg PO DAILY 
+20. Mylanta 10 mL oral QID:PRN 
+21. Latanoprost 0.005% Ophth.",False,False,False,True,False,current,,,False,False,False,True,1.0
+15229355,29074135,48,84,"melatonin 3 mg oral QHS  
+16. Multivitamins W/minerals 1 TAB PO DAILY  
+17. Mylanta 10 mL oral QID:PRN heartburn  
+18. Nexium 40 mg Other DAILY  
+19. OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - Mild  
+20. Perforomist (formoterol fumarate) 20 mcg/2 mL inhalation 
+BID  
+21. PredniSONE 10 mg PO DAILY  
+22. TraZODone 12.5 mg PO QHS:PRN insomnia  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Urinary tract infection
+Hypovolemia/dehydration
+___ disease
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.",True,False,False,True,False,current,,,True,False,False,True,1.0
+15229355,21234882,49,57,"# Anemia: Chronic, stable
+# Glaucoma: Continued home eye gtts
+# Hypothyroidism: Continued levothyroxine
+# Hyperlipidemia: Continued atorvastatin
+# Anxiety: Continued alprazolam as needed
+# Insomnia: Continued low dose home trazodone; substitute 
+ramelteon for melatonin
+
+>30 minutes spent coordinating discharge home
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.",True,False,True,True,False,current,,,True,False,True,True,1.0
+15229355,21234882,49,60,"1 DROP BOTH EYES QHS 
+12. Levalbuterol Neb 0.63 mg NEB Q6H:PRN sob 
+13. Levothyroxine Sodium 25 mcg PO DAILY 
+14. Multivitamins W/minerals 1 TAB PO DAILY 
+15. Mylanta 10 mL oral QID:PRN heartburn 
+16. Perforomist (formoterol fumarate) 20 mcg/2 mL inhalation BID 
+
+17. PredniSONE 10 mg PO DAILY 
+18. TraZODone 12.5 mg PO QHS:PRN insomnia 
+19.",True,False,False,True,False,current,,,True,False,False,True,1.0
+15229355,21234882,49,61,"melatonin 3 mg oral QHS 
+20. Nexium 40 mg Other DAILY 
+21. Senna 17.2 mg PO QHS 
+22. Docusate Sodium 200 mg PO QHS 
+23. Polyethylene Glycol 17 g PO DAILY 
+
+ 
+Discharge Medications:
+1. Bisacodyl 10 mg PO DAILY:PRN Constipation 
+RX *bisacodyl [Laxative (bisacodyl)] 5 mg 1 tablet(s) PR daily 
+Disp #*30 Tablet Refills:*0 
+2. Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL BID 
+RX *chlorhexidine gluconate [Peridex] 0.12 % Rinse mouth as part 
+of oral care twice a day Refills:*3 
+3. Senna 17.2 mg PO BID  
+4. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+5. ALPRAZolam 0.25 mg PO TID:PRN anxiety  
+6. Atorvastatin 20 mg PO QPM  
+7. Carbidopa-Levodopa (___) 2 TAB PO BID  
+8. Carbidopa-Levodopa (___) 1.5 TAB PO BID  
+9. Carbidopa-Levodopa (___) 1 TAB PO ___  
+10.",False,False,False,True,False,uncertain,,,False,False,False,False,0.7
+15229355,21234882,49,64,"melatonin 3 mg oral QHS  
+18. Multivitamins W/minerals 1 TAB PO DAILY  
+19. Mylanta 10 mL oral QID:PRN heartburn  
+20. Nexium 40 mg Other DAILY  
+21. Perforomist (formoterol fumarate) 20 mcg/2 mL inhalation 
+BID  
+22. Polyethylene Glycol 17 g PO DAILY  
+23. PredniSONE 10 mg PO DAILY  
+24. TraZODone 12.5 mg PO QHS:PRN insomnia  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Tachypnea related to kyphosis and abdominal distension along 
+with some dysphagia and aspiration
+Constipation
+___ disease
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.",True,False,False,True,False,current,,,True,False,False,True,1.0
+15229355,27594813,50,38,"Sedating medications were 
+used sparingly and son ___ try melatonin for sleep rather 
+than a benzodiazepine.",True,False,False,True,False,current,,,True,False,False,True,1.0
+15229355,27594813,50,39,Trazodone was held.,False,False,False,True,True,historical,,,False,False,False,False,0.15
+15229355,27594813,50,42,"# Constipation: Continue senna, Miralax, bisacodyl
+
+CHRONIC/STABLE PROBLEMS:
+# Anemia: Chronic, stable
+# Glaucoma: Continued home eye gtts
+# Hypothyroidism: Continued levothyroxine
+# Hyperlipidemia: Continued atorvastatin
+# Anxiety: Continued alprazolam sparingly as needed
+# Insomnia: Substitute melatonin for trazodone at discharge
+# GERD: Nexium
+
+Appeal of Discharge: Patient's son ___ appealed his mother's 
+discharge.",True,False,False,True,False,current,,,True,False,False,True,1.0
+15229355,27594813,50,54,"1 DROP BOTH EYES QHS 
+12. Levalbuterol Neb 0.63 mg NEB Q6H:PRN sob 
+13. Levothyroxine Sodium 25 mcg PO DAILY 
+14. Multivitamins W/minerals 1 TAB PO DAILY 
+15. Mylanta 10 mL oral QID:PRN heartburn 
+16. Perforomist (formoterol fumarate) 20 mcg/2 mL inhalation BID 
+
+17. Polyethylene Glycol 17 g PO DAILY 
+18. PredniSONE 10 mg PO DAILY 
+19. Senna 17.2 mg PO BID:PRN Constipation - First Line 
+20. TraZODone 12.5 mg PO QHS:PRN insomnia 
+21. Bisacodyl 10 mg PO DAILY:PRN Constipation 
+22. Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL BID 
+23.",True,False,False,True,False,current,,,True,False,False,True,1.0
+15229355,27594813,50,55,"melatonin 3 mg oral QHS 
+24. Nexium 40 mg Other DAILY 
+25. Carbidopa-Levodopa (___) 2 TAB PO Q24 
+
+ 
+Discharge Medications:
+1. Carbidopa-Levodopa (___) 2 TAB PO Q24H  
+2. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+3. ALPRAZolam 0.25 mg PO TID:PRN anxiety  
+4. Atorvastatin 20 mg PO QPM  
+5. Bisacodyl 10 mg PO DAILY:PRN Constipation  
+6. Carbidopa-Levodopa (___) 2 TAB PO BID  
+7. Carbidopa-Levodopa (___) 2 TAB PO Q24 
+4:00 ___  
+8. Carbidopa-Levodopa (___) 1.5 TAB PO BID  
+9. Carbidopa-Levodopa (___) 1 TAB PO ___  
+10.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+15229355,27594813,50,58,"melatonin 3 mg oral QHS  
+19. Multivitamins W/minerals 1 TAB PO DAILY  
+20. Mylanta 10 mL oral QID:PRN heartburn  
+21. Nexium 40 mg Other DAILY  
+22. Perforomist (formoterol fumarate) 20 mcg/2 mL inhalation 
+BID  
+23. Polyethylene Glycol 17 g PO DAILY  
+24. PredniSONE 10 mg PO DAILY  
+25. Senna 17.2 mg PO BID:PRN Constipation - First Line  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Urinary Tract Infection
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.",False,True,False,True,False,current,,,False,True,False,True,1.0
+15229355,27594813,50,65,"Since you were confused 
+and sleepy, you likely had trouble clearing your mucus 
+secretions.",True,False,False,False,False,uncertain,,,False,False,False,False,0.7
+15229355,24758395,51,6,"Patient 
+noted to be fatigued, weak, with difficulty swallowing ensure 
+given by family, concern for aspiration, very weak cough.",False,False,False,False,True,uncertain,,,False,False,False,False,0.21
+15229355,24758395,51,96,"melatonin 3 mg oral QHS  
+23. Mylanta 10 mL oral QID:PRN heartburn  
+24. Perforomist (formoterol fumarate) 20 mcg/2 mL inhalation 
+BID  
+25. Polyethylene Glycol 17 g PO DAILY  
+26. PredniSONE 10 mg PO DAILY  
+27. Portable suction device
+Please supply portable suction device, connector tubing, 
+Yankauer suction tip, and cannisters.",False,False,False,True,False,uncertain,,,False,False,False,False,0.7
+15229355,22438691,52,33,"She
+confirmed that she was feeling more tired and ""out of it"" at 
+home
+than normal for her though as of this morning she has been
+feeling much better.",True,False,False,False,False,current,,,True,False,False,False,1.0
+15229355,22438691,52,89,"melatonin 3 mg oral QHS 
+20. Acetaminophen (Liquid) 975 mg PO Q8H 
+21. Multi Vitamin (multivit-minerals-ferrous fum) 9 mg iron/15 
+mL oral DAILY 
+22. Multivitamins W/minerals 15 mL PO DAILY 
+23. Milk of Magnesia 30 mL PO Q8H 
+24. Lidocaine 5% Patch 1 PTCH TD QPM Pain 
+25. Lansoprazole Oral Disintegrating Tab 30 mg PO BID 
+26. Ibuprofen Suspension 600 mg PO Q8H:PRN Pain - Mild 
+
+ 
+Discharge Medications:
+1. Azithromycin 250 mg PO DAILY Duration: 3 Doses 
+RX *azithromycin 250 mg 1 tablet(s) G-tube Daily Disp #*3 Tablet 
+Refills:*0 
+2. Cefpodoxime Proxetil 400 mg PO Q12H Duration: 7 Doses 
+RX *cefpodoxime 200 mg 2 tablet(s) G-tube twice a day Disp #*14 
+Tablet Refills:*0 
+3. Acetaminophen (Liquid) 975 mg PO Q8H  
+4. Atorvastatin 20 mg PO QPM  
+5. Carbidopa-Levodopa (___) 2 TAB PO Q24H  
+6. Carbidopa-Levodopa (___) 2 TAB PO Q24H  
+7. Carbidopa-Levodopa (___) 1.5 TAB PO Q24H  
+8. Carbidopa-Levodopa (___) 1 TAB PO Q24H  
+9. Carbidopa-Levodopa (___) 1 TAB PO Q24H  
+10. Carbidopa-Levodopa (___) 1.5 TAB PO Q24H  
+11.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+15229355,22438691,52,91,"melatonin 3 mg oral QHS  
+22. Milk of Magnesia 30 mL PO Q8H  
+23. Multi Vitamin (multivit-minerals-ferrous fum) 9 mg iron/15 
+mL oral DAILY  
+24. Multivitamins W/minerals 15 mL PO DAILY  
+25. Mylanta 10 mL oral QID:PRN heartburn  
+26. Perforomist (formoterol fumarate) 20 mcg/2 mL inhalation 
+BID  
+27. Polyethylene Glycol 17 g PO DAILY  
+28. PredniSONE 10 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnoses: UTI, community acquired pneumonia
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.",False,True,False,True,False,current,,,False,True,False,True,1.0
+15229355,29216705,53,14,"He feels she is 
+off
+her baseline at present, a little lower energy and sluggish,
+thoug on encounter on floor arrival, he thinks she is tired, as
+it is 2:00a
+
+Review of past OMR notes summarized as follows: 
+Pall care consult on ___ was placed re placement of PEG tube; 
+in
+this note pt was sitting up and alert but answering questions
+without obvious understanding of what was being asked.",True,False,False,False,False,current,,,True,False,False,False,1.0
+15229355,29216705,53,62,"melatonin 3 mg oral QHS:PRN 
+10. Milk of Magnesia 30 mL PO Q8H:PRN Constipation - First Line 
+11. PredniSONE 10 mg PO DAILY 
+12. Carbidopa-Levodopa CR (___) 1 TAB PO ASDIR 
+13.",False,False,False,True,False,uncertain,,,False,False,False,False,0.7
+15229355,29216705,53,67,"melatonin 3 mg oral QHS:PRN  
+16. Polyethylene Glycol 17 g PO DAILY:PRN Constipation - First 
+Line  
+17. PredniSONE 10 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+# Cough
+# Chronic steroid use
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.",False,False,False,True,False,uncertain,,,False,False,False,False,0.7
+15229355,26552617,54,24,Fatigued.,False,True,False,False,False,current,,,False,True,False,False,1.0
+15229355,26552617,54,37,"NEUROLOGIC: Patient not participating much, as she is tired.",True,True,False,,False,current,,,True,True,False,False,1.0
+15229355,26552617,54,113,"melatonin 3 mg oral QHS:PRN 
+17. Polyethylene Glycol 17 g PO DAILY:PRN Constipation - First 
+Line 
+
+ 
+Discharge Medications:
+1. Multivitamins W/minerals 1 TAB PO DAILY 
+RX *multivitamin,tx-minerals [Vitamins and Minerals]  1 
+tablet(s) by mouth daily Disp #*90 Tablet Refills:*0 
+2. Acetaminophen 1000 mg PO Q8H  
+3. Carbidopa-Levodopa (___) 2 TAB PO Q0700  
+4. Carbidopa-Levodopa (___) 1.5 TAB PO Q 1000  
+5. Carbidopa-Levodopa (___) 1.5 TAB PO Q1300  
+6. Carbidopa-Levodopa (___) 2 TAB PO Q1600  
+7. Carbidopa-Levodopa (___) 1 TAB PO Q1900  
+8. Carbidopa-Levodopa (___) 1 TAB PO AT MIDNIGHT  
+9. Atorvastatin 20 mg PO QPM  
+10.",False,False,False,True,False,current,,,False,False,False,True,1.0
+15229355,26552617,54,116,"melatonin 3 mg oral QHS:PRN  
+21. Milk of Magnesia 30 mL PO DAILY:PRN Constipation - Second 
+Line  
+22. Polyethylene Glycol 17 g PO DAILY:PRN Constipation - First 
+Line  
+23. PredniSONE 10 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+==================
+Community acquired pneumonia
+
+Secondary Diagnoses:
+====================
+Parkinsons Disease
+Chronic obstructive pulmonary disease 
+Bronchiectasis 
+Acute/subacute rib fractures
+Esophageal dysmotility
+Malnutrition
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.",False,True,False,True,False,current,,,False,True,False,True,1.0
+15229355,21233372,55,112,"melatonin 3 mg oral QHS:PRN 
+24.",False,False,False,True,False,current,,,False,False,False,True,1.0
+15229355,21233372,55,117,"melatonin 3 mg oral QHS:PRN  
+24. Milk of Magnesia 30 mL PO DAILY:PRN Constipation - Second 
+Line  
+25. Multivitamins W/minerals 1 TAB PO DAILY  
+26. Polyethylene Glycol 17 g PO DAILY:PRN Constipation - First 
+Line  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES
+Acute hypoxemic hypercarbic respiratory failure 
+Sepsis secondary to HAP
+MRSA pneumonia
+Pseudomonas pneumonia
+
+SECONDARY DIAGNOSES
+Hypotension
+Reactive airway disease
+Chronic aspiration
+Bradycardic episodes
+Diarrhea
+Skin excoriations
+Hypernatremia
+Anemia
+Thrombocytopenia 
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+15229355,20397401,56,18,"She received:
+- IV LR @ 75cc/hr
+- PO Alprazolam 0.5mg
+- Omeprazole 40mg PO
+- Pravastatin 80mg PO
+- Carbidopa-Levodopa
+- Hyoscyamine 0.125mg
+- Olanzapine 2.5mg
+
+VS Prior to Transfer: T 98.9, HR 87, BP 132/85, spO2 97% on 
+vent.",False,False,False,False,False,historical,,,False,False,False,False,0.5
+15229355,20397401,56,117,"melatonin 3 mg oral QHS 
+12. PredniSONE 10 mg NG DAILY 
+This is the maintenance dose to follow the last tapered dose
+13.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+15229355,20397401,56,122,"melatonin 3 mg oral QHS  
+17. Milk of Magnesia 30 mL PO DAILY  
+18. Multivitamins W/minerals 1 TAB NG DAILY  
+19.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+15229355,25039720,57,79,"melatonin 3 mg oral QHS 
+20.",False,False,False,True,False,current,,,False,False,False,True,1.0
+15229355,25039720,57,84,"melatonin 3 mg oral QHS  
+18. Milk of Magnesia 30 mL PO DAILY  
+19. Multivitamins W/minerals 1 TAB NG DAILY  
+20. OxyCODONE (Immediate Release) 1.25 mg PO Q6H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg 0.25 tablet(s) by mouth Q6H PRN Disp #*10 
+Tablet Refills:*0 
+21. Polyethylene Glycol 17 g PO DAILY  
+22. Saccharomyces boulardii 250 mg oral BID  
+23.",False,False,False,True,False,current,,,False,False,False,True,1.0
+15229355,27741908,58,63,"melatonin 3 mg oral QHS 
+11. Multivitamins W/minerals 1 TAB PO DAILY 
+12. OxyCODONE (Immediate Release) 2.5 mg PO Q6H:PRN Pain - 
+Moderate 
+13. Polyethylene Glycol 17 g PO DAILY 
+14. Atorvastatin 20 mg PO QPM 
+15. PredniSONE 10 mg PO DAILY 
+16. Carbidopa-Levodopa (___) 2 TAB PO DAILY 
+17. Carbidopa-Levodopa (___) 2 TAB PO DAILY 1600 
+18. Carbidopa-Levodopa (___) 1 TAB PO DAILY 
+19. Bisacodyl 10 mg PR QHS:PRN Constipation - Second Line 
+
+ 
+Discharge Medications:
+1. Cephalexin 500 mg PO BID Duration: 2 Days 
+Take 2 pills a day for the next two days (4 pills total)  
+RX *cephalexin 500 mg 1 capsule(s) by mouth twice a day Disp #*4 
+Capsule Refills:*0 
+2. Carbidopa-Levodopa (___) 2 TAB PO TID ___, 1300, 1600  
+3. Acetaminophen 500 mg PO Q6H:PRN Pain - Mild/Fever  
+4. Atorvastatin 20 mg PO QPM  
+5. Bisacodyl 10 mg PR QHS:PRN Constipation - Second Line  
+6. Carbidopa-Levodopa (___) 1.5 TAB PO DAILY  
+7. Carbidopa-Levodopa (___) 1 TAB PO DAILY  
+8. Clotrimazole Cream 1 Appl TP BID  
+9.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+15229355,27741908,58,65,"melatonin 3 mg oral QHS  
+15. Multivitamins W/minerals 1 TAB PO DAILY  
+16. OxyCODONE (Immediate Release) 2.5 mg PO Q6H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg 0.5 (One half) tablet(s) by mouth q8hrs Disp 
+#*10 Capsule Refills:*0 
+17. Polyethylene Glycol 17 g PO DAILY  
+18. PredniSONE 10 mg PO DAILY 
+Prednisone was started on ___ for a thirty day course.",False,False,False,True,False,uncertain,,,False,False,False,False,0.7
+15229355,29618054,59,43,"melatonin 3 mg oral QHS 
+10. Bisacodyl 10 mg PR QHS:PRN Constipation - Second Line 
+11. Carbidopa-Levodopa (___) 1.5 TAB PO DAILY at ___ 
+12. Carbidopa-Levodopa (___) 1 TAB PO DAILY at 0000 
+13. Levalbuterol Neb 0.63 mg NEB Q6H 
+14. Polyethylene Glycol 17 g PO DAILY 
+15. PredniSONE 10 mg PO DAILY 
+16. Clotrimazole Cream 1 Appl TP BID 
+17.",False,False,False,True,False,current,,,False,False,False,True,1.0
+15229355,29618054,59,46,"melatonin 3 mg oral QHS  
+16. Multivitamins W/minerals 1 TAB PO DAILY  
+17. Nystatin Cream 1 Appl TP BID  
+18. OxyCODONE (Immediate Release) 2.5 mg PO Q6H:PRN Pain - 
+Moderate  
+19. Polyethylene Glycol 17 g PO DAILY  
+20. PredniSONE 10 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary 
+======= 
+Acute on Chronic Hypoxic Respiratory Failure s/p Tracheostomy 
+ 
+Secondary 
+========= 
+___ Disease 
+Dementia 
+Esophageal Dysmotility 
+Hypertension 
+Hyperlipidemia 
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.",False,True,False,True,False,current,,,False,True,False,True,1.0
+15229355,27105431,60,54,"melatonin 3 mg oral QHS 
+18.",False,False,False,True,False,current,,,False,False,False,True,1.0
+15229355,27105431,60,57,"melatonin 3 mg oral QHS  
+16. Multivitamins W/minerals 1 TAB PO DAILY  
+17. Nystatin Cream 1 Appl TP BID  
+18. PredniSONE 10 mg PO DAILY  
+19. HELD- Bisacodyl 10 mg PR QHS:PRN Constipation - Second Line  
+This medication was held.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+15229355,21413617,61,28,"It is normal 
+to feel tired or ""washed out"" , and this feeling should improve 
+over the first few days to week.",False,True,False,False,False,historical,,,False,False,False,False,0.5
+15229355,24824127,62,38,"melatonin 3 mg oral QHS 
+
+ 
+Discharge Medications:
+1. Atorvastatin 20 mg PO QPM 
+2. Carbidopa-Levodopa (___) 1.5 TAB PO TID 
+3. Lodosyn (carbidopa) 25 mg oral DAILY 
+4.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+15229355,24824127,62,39,"melatonin 3 mg oral QHS 
+5. Metoprolol Succinate XL 12.5 mg PO DAILY 
+6. Multivitamins W/minerals 1 TAB PO DAILY 
+7. Omeprazole 40 mg PO DAILY 
+8. Polyethylene Glycol 17 g PO DAILY 
+9. Rasagiline 0.5 mg PO DAILY 
+10. Ipratropium Bromide Neb 1 NEB IH Q6H 
+RX *ipratropium bromide 0.2 mg/mL  (0.02 %) 1 neb INH every 6 
+hours for 2 weeks and then as needed Disp #*90 Vial Refills:*0
+11. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+RX *fluticasone [Flovent HFA] 110 mcg/actuation 2 puff INH twice 
+daily Disp #*3 Inhaler Refills:*0
+12. Albuterol 0.083% Neb Soln 1 NEB IH Q4H:PRN wheezing, 
+dyspnea, cough 
+RX *albuterol sulfate 2.5 mg/3 mL (0.083 %) 1 neb inh every 4 
+hours as needed Disp #*90 Vial Refills:*0
+13. Spacer
+Diagnosis: Bronchitis, reactive airways disease
+Please use with fluticasone inhaler
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Bronchitis vs airway reactivity after infection
+___ disease
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.",False,True,False,True,False,current,,,False,True,False,True,1.0
+15229355,26861248,63,30,Does endorse being tired.,True,False,False,False,False,current,,,True,False,False,False,1.0
+15229355,26861248,63,93,"melatonin 3 mg oral QHS 
+5. Metoprolol Succinate XL 12.5 mg PO DAILY 
+6. Multivitamins W/minerals 1 TAB PO DAILY 
+7. Omeprazole 40 mg PO DAILY 
+8. Polyethylene Glycol 17 g PO DAILY:PRN Constipation 
+9. Rasagiline 0.5 mg PO DAILY 
+10. Ipratropium Bromide Neb 1 NEB IH Q6H 
+11. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+12. Albuterol 0.083% Neb Soln 1 NEB IH Q4H:PRN wheezing, 
+dyspnea, cough 
+
+ 
+Discharge Medications:
+1. Albuterol 0.083% Neb Soln 1 NEB IH Q4H:PRN wheezing, dyspnea, 
+cough 
+2. Atorvastatin 20 mg PO QPM 
+3.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+15229355,26861248,63,95,"melatonin 3 mg oral QHS 
+14. Hydrocortisone Cream 2.5% 1 Appl TP TID PRN ITCH 
+RX *hydrocortisone 2.5 % Apply thin film to the affected area up 
+to three times daily Disp #*30 Gram Gram Refills:*0
+15. Guaifenesin ER 600 mg PO Q12H cough 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+Primary diagnosis: 
+=================== 
+Aspiration 
+Mechanical Fall 
+___ disease 
+Airway reactivity 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.",False,False,False,True,False,uncertain,,,False,False,False,False,0.7
+16174060,20871287,65,5,"Reported that he had been working on multiple academic projects 
+for several weeks, questioning the existence of magic and the 
+nature of reality, with decreased need for sleep and increased 
+irritability.",True,False,False,False,False,current,,,True,False,False,False,1.0
+16174060,20871287,65,52,"Cognition: 
+-Wakefulness/alertness: Awake and alert
+-Attention: MOYb with 0 errors
+-Orientation: Oriented to person, time, place, situation
+-Executive function (go-no go, Luria, trails, FAS): Not tested
+-Memory: ___ registration, ___ recall after 5 ___
+grossly intact
+-Fund of knowledge: Consistent with education; intact to last 3
+presidents, identifies ___ as ""the ___
+investigating ___ for his conduct with ___ 
+-Calculations: 7 quarters = ""$1.75""
+-Abstraction: Interprets ""the grass is always greener on the
+other side"" as ""Sometimes when you're looking at something from
+someone else's shoes, you might think they have it better.""
+-Visuospatial: Not assessed
+-Language: Native ___ speaker, no paraphasic errors,
+appropriate to conversation
+
+Mental Status:
+-Appearance: Young man with long brown hair, wearing plaid shirt
+and sweat pants, well-built
+-Behavior: Sitting up in chair, appropriate eye contact,
+fidgeting with pen throughout interview
+-Attitude: Mostly cooperative and friendly but becomes slightly
+less so when asked about past psychiatric symptoms
+-Mood: ""Okay""
+-Affect: Mood-congruent, full range, appropriate to situation
+-Speech: Normal rate, volume, and tone
+-Thought process: Linear, coherent, goal-oriented
+-Thought Content:
+---Safety: Denies SI/HI
+---Delusions: No evidence of paranoia, etc.",False,False,False,False,True,historical,,,False,False,False,False,0.15
+16174060,20871287,65,54,"Initial presentation was concerning for severe psychosis with 
+apparent acute onset (per collateral was seen by his parents 
+about a week prior to presentation and appeared to be at his 
+baseline) with ED course notable for grandiosity, irritability,
+disorganized and tangential thought process, as well as 
+agitation requiring numerous physical and chemical restraints.",False,False,False,False,False,historical,,,False,False,False,False,0.5
+16174060,20871287,65,64,"He was offered prn Ativan, which he did not 
+require.",False,False,False,True,True,historical,,,False,False,False,False,0.15
+18510965,22482990,70,22,"Past Medical History:
+1. CARDIAC RISK FACTORS:+ Hypertension, + Hyperlipidemia, - 
+Diabetes 
+2. CARDIAC HISTORY:  No past cardiac history  
+3. OTHER PAST MEDICAL HISTORY:  
+OSA on CPAP (with variable compliance)
+Asthma 
+GERD
+Uterine Cancer, s/p TAH BSO and radiation ___, last recorded 
+pap ___
+Obesity
+Lichen Sclerosus et Atrophicus
+Insomnia
+Intestinal Angiodysplasia
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death; otherwise non-contributory.",True,False,False,False,False,current,,,True,False,False,False,1.0
+18607084,26324835,71,9,"Patient reports that previously his MS was largely characterized
+by fatigue but that during this period he was diffusely quite
+weak, very ill, hospitalized for four months.",False,True,False,False,False,historical,,,False,False,False,False,0.5
+18607084,26324835,71,15,"Sometimes patient 
+reports
+he has preserved awareness during and tries to keep track of the
+clock (he thinks at times that he maintains awareness throughout
+the entire episode but does, of note, have baseline short-term
+memory difficulties).",False,True,False,False,False,historical,,,False,False,False,False,0.5
+18607084,26324835,71,17,"The episodes typically last
+___ minutes and are followed by patient being confused, tired,
+sore, out of it for about 10 minutes or so, resting and getting
+his bearings.",False,True,False,False,False,uncertain,,,False,False,False,False,0.7
+18607084,26324835,71,31,"Reports baseline difficulties thinking and speaking 
+(particularly
+with short term memory often repeating himself and with reading 
+-
+reports that this takes significant effort and is slow); patient
+and girlfriend estimate that this has been about stable since 
+his
+PML.",False,True,False,False,False,historical,,,False,False,False,False,0.5
+18607084,26324835,71,55,"Attention to examiner easily attained but may again become a bit 
+tangential; able to recall days of week backwards, initially 
+skips ___ but then with single prompt able to self-correct.",False,False,False,False,False,uncertain,,,False,False,False,False,0.7
+18607084,26324835,71,60,No paraphasic errors.,False,False,False,False,True,current,,,False,False,False,False,0.3
+18607084,26324835,71,81,"Pertinent Results:
+==========
+LABORATORY
+==========
+Admission labs:
+     13.1     MCV 90 
+6.6 >---< 287 
+     37.9  
+Urine Benzos Pos ** Patient known to be on Valium 
+Urine Barbs, Opiates, Cocaine, Amphet, Mthdne, Oxycodone 
+Negative
+U/A benign
+
+___ 07:11AM BLOOD ___ PTT-28.8 ___
+___ 07:11AM BLOOD Glucose-85 UreaN-16 Creat-0.7 Na-138 
+K-4.0 Cl-103 HCO3-23 AnGap-16
+___ 07:10AM BLOOD ALT-29 AST-29 CK(CPK)-426* AlkPhos-103 
+TotBili-0.4
+___ 07:11AM BLOOD Calcium-9.1 Phos-3.8 Mg-2.0
+___ 07:10AM BLOOD VitB___-___
+___ 07:10AM BLOOD TSH-1.8
+
+=================
+OTHER DIAGNOSTICS
+=================
+EEG - ___
+This is continuous EEG recording captures one pushbutton 
+activation for right shoulder shrugging, and variable right arm, 
+torso and head tremors which last for one minute and has no 
+electrographic correlate; consistent with a psychogenic 
+non-epileptic event (PNES).",False,False,False,True,False,current,,,False,False,False,True,1.0
+18607084,26324835,71,90,"Brief Hospital Course:
+Mr. ___ is a ___ M w PMHx MS ___ PML / ___ (R 
+frontal lesion) and suspected seizures (staring spells, on 
+keppra) who is admitted for characterization for a new spell 
+type (severe painful R thigh spasm followed by whole body 
+spasms, no LOC during event per patient but sleepy/confused/weak 
+after, occurring multiple times per day).",False,True,False,True,False,current,,,False,True,False,True,1.0
+18607084,26324835,71,98,"1. Mirtazapine 30 mg PO QHS 
+2. Diazepam 10 mg PO QHS 
+3. Maraviroc 300 mg PO BID 
+4. Baclofen 10 mg PO 1 IN AM, 2 IN ___ 
+5. LevETIRAcetam 1250 mg PO BID 
+6. Gabapentin 300 mg PO QHS 
+7. Tizanidine 18 mg PO TID 
+8. Copaxone (glatiramer) 40 mL subcutaneous ___ 
+9. Vitamin D ___ UNIT PO DAILY 
+10. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1. Nicotine Patch 21 mg TD DAILY  
+2. Baclofen 10 mg PO 1 IN AM, 2 IN ___  
+3. Copaxone (glatiramer) 40 mL subcutaneous ___  
+4. Diazepam 10 mg PO QHS 
+RX *diazepam 10 mg 1 PO by mouth at bedtime Disp #*7 Tablet 
+Refills:*0 
+5. Gabapentin 300 mg PO QHS  
+6. LevETIRAcetam 1250 mg PO BID  
+7. Maraviroc 300 mg PO BID  
+8. Mirtazapine 30 mg PO QHS  
+9. Multivitamins 1 TAB PO DAILY  
+10. Tizanidine 18 mg PO TID  
+11. Vitamin D ___ UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Myoclonic jerks
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.",False,False,False,True,False,current,no JSON,"After analyzing the discharge medications, I extract the following evidence for insomnia phenotyping:
+
+**Asserts Sleep Difficulty:** TRUE
+**Asserts Daytime Impairment:** FALSE
+**Asserts Primary Med:**",False,False,False,True,1.0
+19276983,27596021,72,20,"She went to Rehab via ambulance on ___
+ 
+Medications on Admission:
+albuterol,flexeril, valium, imitrex, percocet, trazadone, 
+estradiol
+ 
+Discharge Medications:
+1. Ferrous Sulfate 300  mg (60 mg Iron) Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).",False,False,False,True,False,historical,,,False,False,False,False,0.5
+19276983,27596021,72,31,"12. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO TID (3 
+times a day).",False,False,False,True,False,current,,,False,False,False,True,1.0
+19276983,26000421,73,20,"Patient was given:  
+ lorazepam 1mg PO  
+ methylprednisolone 40mg IV  
+ Azithromycin 500mg IV  
+ ketorolac 30mg IV  
+ 
+ Decision was made to admit to medicine for further management.",False,False,False,False,False,current,,,False,False,False,False,1.0
+19276983,26000421,73,123,"- PRN acetaminophen
+- PRN tramadol 
+- Lidocaine patch
+
+# Depression/Anxiety
+- Continued diazepam 10mg q8h 
+
+# Chronic Constipation
+- Senna, Colace
+- Miralx, bisacodyl PRN
+- Biscodyl PR PRN
+
+# GERD
+- Protonix as above
+
+===================
+TRANSITIONAL ISSUES
+- Steroid taper as follows: 
+--- Prednisone 30 mg ___
+--- Prednisone 20 mg ___
+--- Prednisone 10 mg ___
+- Started on Fe supplementation for low Fe.",False,False,False,True,False,current,,,False,False,False,True,1.0
+19940147,25746576,74,0,"Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Hydralazine / Cefepime
+ 
+Attending: ___
+ 
+Chief Complaint:
+fatigue
+ 
+Major Surgical or Invasive Procedure:
+___ placement
+
+ 
+History of Present Illness:
+___ with history of CML diagnosed in ___, treated with 
+""medicines"" who presents for transplant evaluation.",False,False,False,,False,uncertain,bad JSON,"{
+  ""asserts_sleep_difficulty"": false,
+  ""asserts_daytime_impairment"": true, // fatigue is a daytime impairment
+  ""asserts_primary_med"": false,
+  ""asserts_secondary_med"": false,
+  ""negated"": false,
+  ""temporality"": ""uncertain""
+}",False,False,False,False,0.7
+19940147,25746576,74,1,"She has 
+been doing well until the past week when she developed extreme 
+fatigue.",False,True,False,False,False,historical,,,False,False,False,False,0.5
+19940147,25746576,74,78,"Brief Hospital Course:
+___ with history of CML with new fatigue who was found to have 
+severe anemia and elevated WBC on cbc done today in workup for 
+possible transplant.",False,True,False,False,False,uncertain,,,False,False,False,False,0.7
+19940147,28990773,75,38,"Medications on Admission:
+METOPROLOL TARTRATE - (discharge med) - 50 mg Tablet - 2
+Tablet(s) by mouth three times a day
+OMEPRAZOLE - (discharge med) - 20 mg Capsule, Delayed
+Release(E.C.) - 1 Capsule(s) by mouth DAILY (Daily)
+VALSARTAN [DIOVAN] - (discharge med) - 80 mg Tablet - 1
+Tablet(s) by mouth DAILY (Daily) 
+ 
+Discharge Medications:
+1. Lorazepam 0.5 mg Tablet Sig: ___ Tablets PO once a day: 
+please do not drink alcohol or perform activities that require 
+fast reaction time.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+19940147,22122103,76,58,"Medications on Admission:
+Acyclovir 400 mg Tablet PO q8 hours  
+Budesonide 3 mg Capsule PO TID  
+Cyclosporine Modified [Neoral] 25 mg Capsule  
+1 Capsule(s) by mouth twice a day dose is 175mg bid  
+Fluconazole 200 mg Tablet PO BID  
+Folic Acid 1 mg Tablet PO daily  
+Lorazepam 0.5 mg Tablet ___ tabs PO daily  
+Metoprolol Tartrate 100mg PO BID  
+Nifedipine Extended Release 90mg PO daily  
+Omeprazole 40 mg Capsule PO daily  
+Ondansetron [ZOFRAN ODT] 8 mg Tablet PO q8H PRN nausea  
+Prednisone 40 mg Tablet  
+Sulfamethoxazole-Trimethoprim [Bactrim DS] 800 mg-160 mg Tablet 
+3X/WEEK on ___  
+Ursodiol 300 mg Capsule PO BID  
+Docusate Sodium [Colace] 100 mg PO BID  
+Magnesium Oxide-Mg AA Chelate [Mg-Plus-Protein] 133 mg Tablet PO 
+TID  
+Multivitamin 1 tab daily  
+Senna 8.6 mg Tablet PO BID  
+
+ 
+Discharge Medications:
+1. Budesonide 3 mg Capsule, Sust.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+19940147,21938932,77,45,"P Surgical Hx
+- Right ankle surgery in ___
+- Total abdominal hysterectomy in ___
+- Appendectomy at age ___
+No problems with GA
+ 
+Social History:
+___
+Family History:
+- father - died of MI, nil other health problems
+- mother - had heart problems, DM
+Four siblings
+- 2 bothers had CABG
+- 1 brother prostate cancer
+- Her sister ___ is her donor and is well
+ 
+Physical Exam:
+VS: T 97.8 BP 122/78 HR 118 RR18 sO2 99% RA weight 133lb
+GENERAL: Fatigued, pleasant, conversant, well groomed, in no 
+acute distress
+HEENT: EOMI, PERRL 3+/3+ sclera anicteric, oropharynx moist and 
+without lesions, tongue coated with no thrush
+NECK: Without masses, thyromegaly
+LYMPH: No cervical, supraclavicular, axillary, inguinal 
+lymphadenopathy
+RS: Respirations unlabored.",False,True,False,False,False,current,,,False,True,False,False,1.0
+19940147,21938932,77,107,"Release 24 hr TID
+-cyclosporine modified [Neoral] 25 mg Capsule; 1 capsule in the 
+morning and 2 capsules at night
+-lorazepam 0.5 mg Tablet, ___ Tablet(s) by mouth once a day
+-metoprolol tartrate 50 mg Tablet bid
+-nifedipine [Nifediac CC] 90 mg Tablet Sustained Release DAILY
+-omeprazole 20 mg Capsule, 2 Capsule(s) by mouth DAILY (Daily)
+-docusate sodium [Colace] 100 mg Capsule bid prn
+-magnesium oxide-Mg AA chelate [Mg-Plus-Protein] 133 mg Tablet, 
+2 Tablet(s) by mouth twice a day
+-senna 8.6 mg Tablet, 1 Tablet(s) by mouth twice a day as needed 
+for constipation
+- Multivitamin 1 tab daily
+ 
+Discharge Medications:
+1.",False,False,False,True,False,current,,,False,False,False,True,1.0
+19940147,21938932,77,112,lorazepam 0.5 mg Tablet Sig: ___ Tablets PO DAILY (Daily).,False,False,False,True,False,current,,,False,False,False,True,1.0
+19940147,22634597,78,165,lorazepam 0.5 mg Tablet Sig: ___ Tablets PO DAILY (Daily).,False,False,False,True,False,current,,,False,False,False,True,1.0
+19940147,22634597,78,185,"lorazepam 0.5 mg Tablet Sig: ___ Tablets PO once a day as 
+needed for anxiety, nausea, vomitting, insomnia.",True,False,False,True,False,current,,,True,False,False,True,1.0
+19940147,29892428,79,18,"Given her 
+hypoxia and overall progressive weakness, she was electively 
+intubated for concern for respiratory fatigue after discussion 
+with oncology here ___, Dr ___.",False,False,False,False,True,historical,,,False,False,False,False,0.15
+19940147,29892428,79,110,"During trials on trach collar, she has 
+maintained her oxygen saturation and respiratory rate, however 
+her blood pressure elevates and she reports subjective feelings 
+of dyspnea and fatigue.",False,True,False,False,False,current,,,False,True,False,False,1.0
+19940147,29892428,79,162,"Medications on Admission:
+ACYCLOVIR - 400 mg Tablet - 1 Tablet(s) by mouth twice a day
+AMLODIPINE - 5 mg Tablet - 1 Tablet(s) by mouth ___
+ATOVAQUONE [MEPRON] - 750 mg/5 mL Suspension - 10 ml ___
+BUDESONIDE [ENTOCORT EC] - 3 mg BID
+CYCLOSPORINE MODIFIED [NEORAL] -  25mg BID
+ERGOCALCIFEROL (VITAMIN D2) - 50,000 unit Capsule - 1 Capsule(s)
+by mouth 1X/WEEK (TH)
+LORAZEPAM - 0.5 mg-1mg ___ PRN
+METOPROLOL SUCCINATE - 300 mg ___
+OMEPRAZOLE - 20 mg ___
+PREDNISONE TAPER 8mg ___
+DOCUSATE SODIUM [COLACE] 100mg ___
+MAGNESIUM OXIDE-MG AA CHELATE [MG-PLUS-PROTEIN] 133 mg ___
+SENNOSIDES [SENNA] -  8.6 mg BID  
+
+ 
+Discharge Medications:
+1.",False,False,False,True,True,historical,,,False,False,False,False,0.15
+19940147,29892428,79,171,trazodone 50 mg Tablet Sig: 0.5 Tablet ___ HS (at bedtime).,False,False,False,True,False,current,,,False,False,False,True,1.0
+19940147,29892428,79,179,"diazepam 2 mg Tablet Sig: One (1) Tablet ___ at bedtime as 
+needed for insomnia for 1 doses.",True,False,False,True,False,current,,,True,False,False,True,1.0
+19940147,29892428,79,181,"19. Lorazepam 0.5-1 mg IV Q6H:PRN anxiety 
+20.",False,False,False,True,False,current,,,False,False,False,True,1.0
+19940147,25969058,80,29,"PAST MEDICAL HISTORY: 
+- atherosclerotic coronary vascular disease  
+- status post CABG in ___  
+- hypertension  
+- hyperlipidemia  
+- Right ankle surgery in ___  
+- Total abdominal hysterectomy in ___  
+- Appendectomy at age ___  
+
+ 
+Social History:
+___
+Family History:
+- father - died of MI, no other health problems
+- mother - had heart problems, DM
+Four siblings
+- 2 bothers had CABG
+- 1 brother prostate cancer
+- Her sister ___ is her donor and is well 
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM: 
+T 98.5 BP 153/70 HR 118, RR 22 93% 10L TM
+GENERAL: appears fatigued, pale, no acute distress.",False,True,False,False,False,uncertain,,,False,False,False,False,0.7
+19940147,25969058,80,142,"==================================
+ 
+Medications on Admission:
+MEDICATIONS, per rehab records:
+Trazodone 50 mg PO qHS
+Vancomycin 250 mg PO q6H
+Jevity 1.2 cal 50 ml/hr
+Water 120 ml q6H
+Voriconazole 200mg PO q12
+Combivent inhalation 3 ml q4H PRN
+Nystatin 5ml PO QID
+Amlodipine 10 mg daily
+Atovaquone 1500 mg PO q12H
+Colestyramine 1 packet q12
+Acyclovir 400 mg PO q12
+Calcium Carbonate 500 mg PO q8H
+Alumina/magnesia/simethicone 30 ml PO q6H PRN
+Cyclosproine 25 mg PO q12H
+Lansoprazole 30 mg PO daily
+Acetaminophen 650 mg PO q6H PRN
+Fluticasone 2 puffs BID
+Prednisone 30 mg PO BID
+Metoprolol 100 mg PO q6H
+Captopril 12.5 mg PO q8H
+Diazeptam 2 mg PO qHS PRN
+Lorazepam 1 mg IV q6H PRN
+Cholecalciferol 400 units PO q12H
+Heparin 5000 units SC q12
+Lidocaine 2% 10ml PO q8H PRN
+.",False,False,False,True,False,current,,,False,False,False,True,1.0
+19940147,25969058,80,156,"We made the following changes to your medications:
+1. STARTED enoxaparin 400mg subcutaneous twice daily
+2. STARTED alendronate sodium 5mg by mouth daily
+3. STARTED ipratropium bromide MDI 2 puffs every 4 hours as 
+needed for wheezing/shortness of breath
+4. STARTED clonazepam 1mg by mouth at bedtime as needed for 
+insomnia
+5. INCREASED vancomycin to 500mg by mouth every 6 hours 
+6. INCREASED cyclosporin to 50mg by mouth twice daily
+7. DECREASED prednisone to 30mg by mouth once daily
+8. DECREASED atovaquone to 1500mg by mouth once daily
+9. DECREASED amlodipine to 5mg by mouth once daily
+10. DECREASED cholecalciferol to 400 units by mouth once daily
+11. STOPPED trazodone
+12. STOPPED Jevity (tube feeds)
+13. STOPPED Combivent
+14. STOPPED cholestyramine
+15. STOPPED aluminum/magnesium/simethicone
+16. STOPPED diazepam
+17. STOPPED lorazepam
+18. STOPPED heparin subcutaneous injections
+19. STOPPED lidocaine 2% 
+20. STOPPED fluticasone
+ 
+Followup Instructions:
+___",True,False,False,True,False,current,,,True,False,False,True,1.0
+19940147,23121049,82,1,"Pt has been feeling increasingly 
+fatigued over last several weeks with persistent loose 
+non-bloody stools, ranging from ___/ day.",False,True,False,False,False,historical,,,False,False,False,False,0.5
+19940147,23121049,82,50,"Brief Hospital Course:
+Ms. ___ is ___ with accelerated CML s/p allo transplant 
+___ complicated by GVHD, pneumonia, myositis, and DVTs who 
+initially presented with fatigue, diarrhea, pancytopenia in the 
+setting of Cellcept and Ponatinib therapy.",False,False,False,False,False,historical,,,False,False,False,False,0.5
+19940147,24246297,83,22,"- ___ colonoscopy showing lower GI GVHD  
+- ___ readmitted with recurrent aGVHD of the liver upper 
+and lower GI tract in the setting of reducing immunosuppression  
+
+- ___ Started on ponatinib 45 mg PO due to evidence of 
+disease
+- ___ admitted to the hospital for fatigue and diarrhea, 
+renal biopsy showed microangiopathic disease, glomerular 
+sclerosing and fibrosis of kidney and GI biopsy showed shallow 
+crypts that are 
+typically seen with GVHD or cellcept toxicity.",False,True,False,False,False,current,,,False,True,False,False,1.0
+19940147,24246297,83,43,Her symptoms improved with zyprexa and zofran.,False,False,False,True,False,uncertain,,,False,False,False,False,0.7
+19940147,24246297,83,71,"RX *levofloxacin 750 mg Take 1 tablet by mouth every 48 hours 
+Disp #*5 Tablet Refills:*0
+14. Fluticasone Propionate NASAL 2 SPRY NU DAILY 
+RX *fluticasone 50 mcg Take 2 sprays nasally in both nostirls 
+once daily Disp #*1 Bottle Refills:*0
+15. Losartan Potassium 100 mg PO DAILY 
+16. PredniSONE 15 mg PO DAYS (___) 
+17. PredniSONE 20 mg PO DAYS (___) 
+18. OLANZapine (Disintegrating Tablet) 5 mg PO QHS Duration: 5 
+Days 
+RX *olanzapine 5 mg Take 1 tablet,disintegrating(s) by mouth 
+every night Disp #*5 Tablet Refills:*0
+19. Ondansetron 4 mg PO Q8H:PRN nausea 
+RX *ondansetron HCl 4 mg Take tablet by mouth every 8 hours Disp 
+#*15 Tablet Refills:*0
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis: Viral Gastroenteritis, Sinusitis, Acute on 
+Chronic Renal Failure
+Secondary Diagnosis: Accelerated Phase CML 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.",False,False,False,True,False,historical,,,False,False,False,False,0.5
+19940147,20655019,84,30,"- ___ colonoscopy showing lower GI GVHD  
+- ___ readmitted with recurrent aGVHD of the liver upper  
+and lower GI tract in the setting of reducing immunosuppression  
+
+- ___ Started on ponatinib 45 mg PO due to evidence of 
+disease  
+- ___ admitted to the hospital for fatigue and diarrhea, 
+renal biopsy showed microangiopathic disease, glomerular 
+sclerosing and fibrosis of kidney and GI biopsy showed shallow 
+crypts that are  
+typically seen with GVHD or cellcept toxicity.",False,True,False,False,False,current,,,False,True,False,False,1.0
+19940147,22171768,85,23,"- ___ colonoscopy showing lower GI GVHD  
+- ___ readmitted with recurrent aGVHD of the liver upper  
+and lower GI tract in the setting of reducing immunosuppression  
+
+- ___ Started on ponatinib 45 mg PO due to evidence of 
+disease  
+- ___ admitted to the hospital for fatigue and diarrhea, 
+renal biopsy showed microangiopathic disease, glomerular 
+sclerosing and fibrosis of kidney and GI biopsy showed shallow 
+crypts that are  
+typically seen with GVHD or cellcept toxicity.",False,True,False,False,False,current,,,False,True,False,False,1.0
+19940147,23739599,87,6,"Patient states that she has been more fatigued 
+recently and has had cough for ___ weeks.",False,False,False,False,False,uncertain,,,False,False,False,False,0.7
+19940147,23739599,87,22,"- ___ colonoscopy showing lower GI GVHD  
+- ___ readmitted with recurrent aGVHD of the liver upper  
+and lower GI tract in the setting of reducing immunosuppression  
+
+- ___ Started on ponatinib 45 mg PO due to evidence of 
+disease  
+- ___ admitted to the hospital for fatigue and diarrhea, 
+renal biopsy showed microangiopathic disease, glomerular 
+sclerosing and fibrosis of kidney and GI biopsy showed shallow 
+crypts that are  
+typically seen with GVHD or cellcept toxicity.",False,True,False,False,False,current,,,False,True,False,False,1.0

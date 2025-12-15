@@ -1,0 +1,145 @@
+subject_id,hadm_id,note_rowid,sent_id,text_span,asserts_sleep_difficulty,asserts_daytime_impairment,asserts_primary_med,asserts_secondary_med,negated,temporality,error,raw,sleep_raw,impair_raw,primary_raw,secondary_raw,is_sleep,is_impair,is_primary,is_secondary
+10695459,20458944,64,8,"Patient became increasingly restless in the ED 
+and reported that she worried the medical team would kill her.",1,0,0,0,0,current,nan,nan,True,False,False,False,1,0,0,0
+10695459,20458944,64,35,"Cognition: 
+ Wakefulness/alertness: awake and alert
+ Attention: intact to interview
+ Orientation: oriented to person, time, place, situation
+ Memory: intact to recent and past history
+ Fund of knowledge: consistent with education
+ Speech: normal rate, decreased volume, and normal tone
+ Language: native ___ speaker, no paraphasic errors,
+appropriate to conversation
+
+Mental Status:
+ Appearance: No apparent distress, appears stated age, well 
+groomed, wearing hospital gown
+ Behavior: Calm, cooperative, somewhat guarded, appropriate eye 
+contact, no psychomotor agitation or retardation
+ Mood and Affect: ""anxious"" / mood-congruent, guarded
+ Thought Process: linear, coherent, goal-oriented.",0,0,0,0,0,uncertain,nan,nan,False,False,False,False,0,0,0,0
+10695459,20458944,64,57,"No evidence of delusions or 
+paranoia
+Insight/Judgment: Fair/fair
+
+Cognition:
+Attention: Attentive to interview
+Orientation: Awake, alert, and oriented x 3
+Memory: Short and long term memory grossly intact
+Fund of knowledge: Average, not formally tested
+Language: Fluent ___
+
+ 
+Discharge Instructions:
+You were hospitalized at ___ for suicide attempt in the 
+setting of increasing anxiety
+
+-Please call the ___ Behavioral Health Dept to schedule a 
+re-entry appointment on ___ morning so you can return to 
+school/your dorm
+-Please call ___ on ___ regarding outpatient appointments 
+for psychiatry and therapy
+-Please take this discharge paperwork to your appointments.",0,0,0,0,0,current,nan,nan,False,False,False,False,0,0,0,0
+15285546,21497462,152,3,"Past Medical History:
+Hypertension
+Hyperlipidemia
+Spinal stenosis
+Degenerative disc disease 
+Obstructive Sleep Apnea, uses CPAP
+Left Hemidiaphragm Paralysis, s/p trauma
+Hemorrhoids
+GERD
+Mild depression
+Benign Prosatic Hypertropy s/p transurethral thermotherapy
+s/p Gastric bypass ___ years ago
+s/p cholecystectomy
+s/p bilat cataract surgery 
+s/p right rotator cuff repair
+s/p removal of a benign throat polyp
+S/P tonsillectomy
+
+ 
+Social History:
+___
+Family History:
+Patient unsure of premature coronary artery disease
+ 
+Physical Exam:
+Pulse:53   Resp:18  O2 sat:96% RA 
+B/P  Right:126/86    Left:124/92 
+Height:6     Weight:245 lbs
+
+General: Middle aged male in no acute distress
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur II/VI SEM
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x] Multiple incisions from lap gastric bypass, ?",0,0,0,0,1,uncertain,nan,nan,False,False,False,False,0,0,0,0
+15967476,27707559,154,18,"* Language: Language is fluent without evidence of paraphasic 
+errors.",1,0,0,0,0,uncertain,nan,nan,True,False,False,False,1,0,0,0
+15967476,28503263,155,133,You had increased urination at night.,0,0,0,0,0,uncertain,nan,nan,False,False,False,False,0,0,0,0
+15967476,22672398,156,52,"Physical Exam:
+VS: temp 98.4, bp 138/76, HR 85, RR 18, SaO2 100% on RA
+Genl: Awake, alert, NAD
+HEENT: Sclerae anicteric, no conjunctival injection, oropharynx 
+clear
+CV: Regular rate, Nl S1, S2, no murmurs, rubs, or gallops
+Chest: CTA bilaterally, no wheezes, rhonchi, rales
+Abd: +BS, soft, NTND abdomen
+Ext: Two round areas of healing folliculitis on her left lower 
+leg.",0,0,0,0,1,current,nan,nan,False,False,False,False,0,0,0,0
+15967476,22672398,156,53,"Back: No tenderness to palpation of her spinous processes
+ 
+Neurologic examination: 
+Mental status: Awake and alert, cooperative with exam.",1,0,0,0,0,current,nan,nan,True,False,False,False,1,0,0,0
+15967476,29561331,157,24,"s/p tonsillectomy age ___
+
+ 
+Social History:
+___
+Family History:
+Mother: cerebral aneurysm, s/p fibroid removal, DM, HTN, renal
+failure s/p kidney transplant, neuropathy, s/p CVA
+Father (deceased): DM, HTN, s/p CVA, possible MI
+Siblings (one ___ sibling): obesity, HTN, DM
+Children: none
+
+ 
+Physical Exam:
+T-97.7 HR-118 BP-172/96 RR-16 SpO2-100
+Gen: Lying in bed in considerable discomfort
+HEENT: NC/AT, moist oral mucosa   
+Neck: Tenderness to palpation, limited ROM, no carotid or
+vertebral bruit
+Back: No point tenderness or erythema
+CV: RRR, Nl S1 and S2, no murmurs/gallops/rubs 
+Lung: Clear to auscultation bilaterally 
+aBd: +BS soft, nontender 
+ext: no edema
+
+Neurologic examination: 
+Mental status: Awake and alert, cooperative with exam, normal 
+affect.",0,0,0,0,0,historical,nan,nan,False,False,False,False,0,0,0,0
+15967476,29561331,157,68,"Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) 
+as needed for insomnia.",0,0,0,0,0,uncertain,no JSON,nan,False,False,False,False,0,0,0,0
+16066728,21779162,161,6,"During the week prior to menses, she also notes 
+increased urinary frequency and fatigue.",1,0,0,0,0,historical,nan,nan,True,False,False,False,1,0,0,0
+16542776,26144674,186,3,"Past Medical History:
+none
+ 
+Social History:
+___
+Family History:
+n/a
+ 
+Physical Exam:
+General: Awake, NAD, lying in bed comfortably
+Head: NC, blood clot in left EAC with no further visible 
+bleeding
+or otorrhea, no scleral icterus, no rhinorrhea, no oropharyngeal
+lesions
+Neck: Supple, no nuchal rigidity
+Extremities: Warm, no edema, palpable radial/dorsalis pedis
+pulses.",0,0,0,0,1,current,nan,nan,False,False,False,False,0,0,0,0
